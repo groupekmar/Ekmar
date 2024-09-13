@@ -5,12 +5,12 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
-import Slider1 from "src/assets/slider/1.webp";
-import Slider2 from "src/assets/slider/2.webp";
-import Slider3 from "src/assets/slider/3.webp";
-import Slider4 from "src/assets/slider/4.webp";
-import Slider5 from "src/assets/slider/5.webp";
-import Slider6 from "src/assets/slider/6.webp";
+import Slider1 from "/src/assets/slider/1.webp";
+import Slider2 from "/src/assets/slider/2.webp";
+import Slider3 from "/src/assets/slider/3.webp";
+import Slider4 from "/src/assets/slider/4.webp";
+import Slider5 from "/src/assets/slider/5.webp";
+import Slider6 from "/src/assets/slider/6.webp";
 
 export default function Sliders() {
   const t = useTranslations("sliders");

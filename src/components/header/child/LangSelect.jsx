@@ -1,8 +1,8 @@
 "use client";
 import { useRouter} from "next/navigation";
-import EnglishIcon from "src/assets/header/lang/en.svg";
-import TurkishIcon from "src/assets/header/lang/tr.svg";
-import RussianIcon from "src/assets/header/lang/ru.svg";
+import EnglishIcon from "/src/assets/header/lang/en.svg";
+import TurkishIcon from "/src/assets/header/lang/tr.svg";
+import RussianIcon from "/src/assets/header/lang/ru.svg";
 
 export default function LangSelect() {
   const router = useRouter();

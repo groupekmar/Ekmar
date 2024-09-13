@@ -1,5 +1,5 @@
 import React from "react";
-import "src/app/global.css";
+import "/src/app/global.css";
 import type { Metadata } from "next";
 import { Nunito } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";

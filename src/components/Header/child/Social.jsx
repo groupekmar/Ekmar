@@ -1,7 +1,7 @@
 import Link from "next/link";
-import Twitter from "src/assets/header/social/twitter.svg";
-import Facebook from "src/assets/header/social/facebook.svg";
-import Instagram from "src/assets/header/social/instagram.svg";
+import Twitter from "/src/assets/header/social/twitter.svg";
+import Facebook from "/src/assets/header/social/facebook.svg";
+import Instagram from "/src/assets/header/social/instagram.svg";
 
 export default function Social() {
   return (
