@@ -7,7 +7,7 @@
       "@comp/*": [
         "./src/components/*"
       ],
-      "@assets/*": [
+      "src/assets/*": [
         "./src/assets/*"
       ],
       "@styles/*": [

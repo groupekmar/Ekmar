@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import WhatsappIcon from "@assets/header/whatsapp.png";
+import WhatsappIcon from "src/assets/header/whatsapp.png";
 
 export default function Whatsapp() {
   const t = useTranslations("header.contact.whatsapp");
