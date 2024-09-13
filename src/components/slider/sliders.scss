@@ -46,6 +46,9 @@
           order: 1;
           padding: 0;
           padding-right: 10%;
+          padding-top: 10%;
+        }
+        @media screen and (min-width: $desk) {
           padding-top: 20%;
         }
         &-title {
@@ -55,7 +58,7 @@
           margin-bottom: var(--size-12);
           @media screen and (min-width: $lap) {
             color: var(--col-white);
-            font-size: var(--size-40);
+            font-size: var(--size-32);
             margin-bottom: var(--size-24);
           }
           @media screen and (min-width: $desk) {
@@ -69,10 +72,12 @@
           margin-bottom: var(--size-24);
           @media screen and (min-width: $lap) {
             line-height: 1.3;
-            font-size: var(--size-20);
             margin-bottom: var(--size-40);
             color: #f3f3f3;
             font-weight: 500;
+          }
+          @media screen and (min-width: $desk) {
+            font-size: var(--size-20);
           }
         }
         &-button {
