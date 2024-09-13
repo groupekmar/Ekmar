@@ -1,7 +1,47 @@
 {
   "header": {
-    "test": {
-      "title": "title eng"
+    "desktopMenu": {
+      "home" : "Home",
+      "about" : "About Us",
+      "products" : "Products",
+      "contact" : "Contact"
+    },
+    "contact": {
+      "whatsapp": {
+        "title": "Contact Us"
+      }
+    }
+  },
+  "sliders": {
+    "slider1": {
+      "title": "Milling Equipments",
+      "subtitle": "Milling equipments refers to industrial machines used for grinding, cutting, and breaking down materials into finer particles. These machines are essential in industries such as food processing, mining, and construction for precise size reduction of various products.",
+      "button": "Click Here"
+    },
+    "slider2": {
+      "title": "Feed Milling Equipments",
+      "subtitle": "Feed milling equipment is specialized machinery used to grind, mix, and process raw ingredients into animal feed. These machines ensure the production of high-quality, uniform feed, vital for livestock nutrition in agriculture and farming industries.",
+      "button": "Click Here"
+    },
+    "slider3": {
+      "title": "Automation Systems",
+      "subtitle": "Automation systems use technology to perform tasks with minimal human input, improving efficiency and reducing errors in industries like manufacturing and logistics.",
+      "button": "Click Here"
+    },
+    "slider4": {
+      "title": "GLB SİLO",
+      "subtitle": "Grain storage and transportation systems are designed to safely store and move harvested grains. These systems ensure the protection and efficient handling of grain from farms to processing facilities.",
+      "button": "Click Here"
+    },
+    "slider5": {
+      "title": "Seed Cleaning Technologies",
+      "subtitle": "Seed cleaning technologies are specialized equipment used to remove impurities and unwanted materials from seeds. They ensure high-quality, pure seeds for planting or processing in agriculture.",
+      "button": "Click Here"
+    },
+    "slider6": {
+      "title": "Ektar Truck Scales",
+      "subtitle": "Truck scales are large weighing platforms designed to measure the weight of vehicles and their loads. They are essential for industries like transportation, agriculture, and construction to ensure accurate weight measurements and compliance with regulations.",
+      "button": "Click Here"
     }
   }
 }

@@ -1,9 +1,9 @@
-import * as React from 'react';
+import Sliders from "@comp/Slider/Sliders";
 
 export default function Page() {
   return (
     <>
-      Test
+      <Sliders />
     </>
   );
 }

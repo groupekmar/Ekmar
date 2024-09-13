@@ -1,7 +1,47 @@
 {
   "header": {
-    "test": {
-      "title": "title tr"
+    "desktopMenu": {
+      "home": "Ana Sayfa",
+      "about": "Hakkımızda",
+      "products": "Ürünler",
+      "contact": "İletişim"
+    },
+    "contact": {
+      "whatsapp": {
+        "title": "Bize Ulaşın"
+      }
+    }
+  },
+  "sliders": {
+    "slider1": {
+      "title": "İşleme Ekipmanları",
+      "subtitle": "İşleme ekipmanları, malzemeleri öğütmek, kesmek ve parçalamak için kullanılan endüstriyel makinelerdir. Bu makineler, gıda işleme, madencilik ve inşaat gibi sektörlerde hassas boyutlandırma sağlar.",
+      "button": "Buraya Tıklayın"
+    },
+    "slider2": {
+      "title": "Yem İşleme Ekipmanları",
+      "subtitle": "Yem işleme ekipmanları, ham maddeleri öğütmek, karıştırmak ve işlemek için özel makinelerdir. Bu makineler, yüksek kaliteli ve uniform yemlerin üretilmesini sağlar.",
+      "button": "Buraya Tıklayın"
+    },
+    "slider3": {
+      "title": "Otomasyon Sistemleri",
+      "subtitle": "Otomasyon sistemleri, minimal insan müdahalesi ile görevleri yerine getiren teknolojilerdir. Bu sistemler, verimliliği artırır ve hataları azaltır.",
+      "button": "Buraya Tıklayın"
+    },
+    "slider4": {
+      "title": "GLB SİLO",
+      "subtitle": "Tahıl depolama ve taşıma sistemleri, tahılları güvenli bir şekilde depolamak ve taşımak için tasarlanmıştır. Bu sistemler, tahılların etkin bir şekilde işleme tesislerine taşınmasını sağlar.",
+      "button": "Buraya Tıklayın"
+    },
+    "slider5": {
+      "title": "Tohum Temizleme Teknolojileri",
+      "subtitle": "Tohum temizleme teknolojileri, tohumlardan safsızlıkları ve istenmeyen materyalleri temizleyen ekipmanlardır. Bu teknolojiler, yüksek kaliteli ve saf tohumlar sağlar.",
+      "button": "Buraya Tıklayın"
+    },
+    "slider6": {
+      "title": "Ektar Kamyon Terazileri",
+      "subtitle": "Kamyon terazileri, araçların ve yüklerinin ağırlığını ölçmek için kullanılan büyük tartım platformlarıdır. Bu teraziler, taşımacılık, tarım ve inşaat sektörlerinde doğru ağırlık ölçümleri ve düzenlemelere uyum sağlar.",
+      "button": "Buraya Tıklayın"
     }
   }
 }

@@ -1,0 +1,214 @@
+{
+  "mainCategories": [
+    {
+      "title": "Milling Equipments",
+      "image": "/images/milling/main.png",
+      "url": "/categories/milling"
+    }
+  ],
+
+
+
+
+  
+  "milling": [
+    {
+      "title": "Milling Section",
+      "image": "/images/milling/millingSection/main.png",
+      "url": "/categories/milling/millingSection",
+      "products": [
+        {
+          "id": 1,
+          "title": "Roller Mill Vals (EKA-4)",
+          "image": "1.png"
+        },
+        {
+          "id": 2,
+          "title": "Roller Mill ODV 250X1000",
+          "image": "2.png"
+        },
+        {
+          "id": 3,
+          "title": "Plansifter",
+          "image": "3.png"
+        },
+        {
+          "id": 4,
+          "title": "Purifier",
+          "image": "4.png"
+        },
+        {
+          "id": 5,
+          "title": "Control Sifter",
+          "image": "5.png"
+        },
+        {
+          "id": 6,
+          "title": "Supersonic Filter",
+          "image": "6.png"
+        },
+        {
+          "id": 7,
+          "title": "Bran Finisher",
+          "image": "7.png"
+        },
+        {
+          "id": 8,
+          "title": "Vibro Sifter",
+          "image": "8.png"
+        },
+        {
+          "id": 9,
+          "title": "Entoleter",
+          "image": "9.png"
+        },
+        {
+          "id": 10,
+          "title": "Distributor",
+          "image": "10.png"
+        },
+        {
+          "id": 11,
+          "title": "Crusher",
+          "image": "11.png"
+        },
+        {
+          "id": 12,
+          "title": "High Pressure Fan",
+          "image": "12.png"
+        }
+      ]
+    },
+    {
+      "title": "Cleaning Section",
+      "image": "/images/milling/cleaningSection/main.png",
+      "url": "/categories/milling/cleaningSection",
+      "products": [
+        {
+          "id": 1,
+          "title": "Grain Seperator",
+          "image": "1.png"
+        },
+        {
+          "id": 2,
+          "title": "Vidro Grain Seperator",
+          "image": "2.png"
+        },
+        {
+          "id": 3,
+          "title": "Radial Aspirator",
+          "image": "3.png"
+        },
+        {
+          "id": 4,
+          "title": "Air Channel",
+          "image": "4.png"
+        },
+        {
+          "id": 5,
+          "title": "Trieur",
+          "image": "5.png"
+        },
+        {
+          "id": 6,
+          "title": "Stone Seperator",
+          "image": "6.png"
+        },
+        {
+          "id": 7,
+          "title": "Scourer",
+          "image": "7.png"
+        },
+        {
+          "id": 8,
+          "title": "Tubular Magnet",
+          "image": "8.png"
+        },
+        {
+          "id": 9,
+          "title": "Magnet",
+          "image": "9.png"
+        },
+        {
+          "id": 10,
+          "title": "Dampening",
+          "image": "10.png"
+        },
+        {
+          "id": 11,
+          "title": "Inclined Dampening",
+          "image": "11.png"
+        },
+        {
+          "id": 12,
+          "title": "Vertical Washing",
+          "image": "12.png"
+        }
+      ]
+    },
+    {
+      "title": "Transportation Equipment",
+      "image": "/images/milling/transportationEquipment/main.png",
+      "url": "/categories/milling/transportationEquipment",
+      "products": [
+        {
+          "id": 1,
+          "title": "Bucket Elevator",
+          "image": "1.png"
+        },
+        {
+          "id": 2,
+          "title": "Screw Conveyor",
+          "image": "2.png"
+        },
+        {
+          "id": 3,
+          "title": "Chain Conveyor",
+          "image": "3.png"
+        },
+        {
+          "id": 4,
+          "title": "Blower",
+          "image": "4.png"
+        },
+        {
+          "id": 5,
+          "title": "Air Lock",
+          "image": "5.png"
+        },
+        {
+          "id": 6,
+          "title": "Blending Machine",
+          "image": "6.png"
+        }
+      ]
+    },
+    {
+      "title": "Packing Section",
+      "image": "/images/milling/packingSection/main.png",
+      "url": "/categories/milling/packingSection",
+      "products": [
+        {
+          "id": 1,
+          "title": "Packing Machine",
+          "image": "1.png"
+        },
+        {
+          "id": 2,
+          "title": "Carrousel Packing",
+          "image": "2.png"
+        },
+        {
+          "id": 3,
+          "title": "Tubular Screw",
+          "image": "3.png"
+        },
+        {
+          "id": 4,
+          "title": "Rotoflow",
+          "image": "4.png"
+        }
+      ]
+    }
+  ]
+}
