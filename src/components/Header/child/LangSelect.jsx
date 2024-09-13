@@ -15,13 +15,13 @@ export default function LangSelect() {
   return (
     <div className="box-6">
       <div className="df aic jce gap-12">
-        <button onClick={handleCLick} data-lang="en">
+        <button aria-label="en-button" onClick={handleCLick} data-lang="en">
           <EnglishIcon />
         </button>
-        <button onClick={handleCLick} data-lang="tr">
+        <button aria-label="tr-button" onClick={handleCLick} data-lang="tr">
           <TurkishIcon />
         </button>
-        <button onClick={handleCLick} data-lang="ru">
+        <button aria-label="ru-button" onClick={handleCLick} data-lang="ru">
           <RussianIcon />
         </button>
       </div>
