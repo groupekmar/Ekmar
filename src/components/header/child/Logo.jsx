@@ -2,7 +2,7 @@
 import { useLocale } from "next-intl";
 import Link from "next/link";
 import Image from "next/image";
-import LogoImage from "./src/assets/header/logo.png";
+import LogoImage from "src/assets/header/logo.png";
 
 export default function Logo() {
   const locale = useLocale();
