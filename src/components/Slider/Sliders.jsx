@@ -4,6 +4,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { useTranslations } from "next-intl";
+import Image from "next/image";
 import Link from "next/link";
 import Slider1 from "/src/assets/slider/1.webp";
 import Slider2 from "/src/assets/slider/2.webp";
@@ -17,7 +18,6 @@ export default function Sliders() {
 
   var settings = {
     autoplay: true,
-    lazyLoad: true,
     dots: true,
     arrow: false,
     infinite: false,
@@ -53,7 +53,7 @@ export default function Sliders() {
               </Link>
             </div>
             <div className="slider-image">
-              <img className="image-center" src={Slider1.src} alt="slider 1" />
+              <Image width={700} height={700} className="image-center" src={Slider1.src} alt="slider 1" />
             </div>
           </div>
         </div>
@@ -69,7 +69,7 @@ export default function Sliders() {
               </Link>
             </div>
             <div className="slider-image">
-              <img className="image-center" src={Slider2.src} alt="slider 2" />
+              <Image width={700} height={700} className="image-center" src={Slider2.src} alt="slider 2" />
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@ export default function Sliders() {
               </Link>
             </div>
             <div className="slider-image">
-              <img className="image-center" src={Slider3.src} alt="slider 3" />
+              <Image width={700} height={700} className="image-center" src={Slider3.src} alt="slider 3" />
             </div>
           </div>
         </div>
@@ -101,7 +101,7 @@ export default function Sliders() {
               </Link>
             </div>
             <div className="slider-image">
-              <img className="image-center" src={Slider4.src} alt="slider 4" />
+              <Image width={700} height={700} className="image-center" src={Slider4.src} alt="slider 4" />
             </div>
           </div>
         </div>
@@ -117,7 +117,7 @@ export default function Sliders() {
               </Link>
             </div>
             <div className="slider-image">
-              <img className="image-center" src={Slider5.src} alt="slider 5" />
+              <Image width={700} height={700} className="image-center" src={Slider5.src} alt="slider 5" />
             </div>
           </div>
         </div>
@@ -133,7 +133,7 @@ export default function Sliders() {
               </Link>
             </div>
             <div className="slider-image">
-              <img className="image-center" src={Slider6.src} alt="slider 6" />
+              <Image width={700} height={700} className="image-center" src={Slider6.src} alt="slider 6" />
             </div>
           </div>
         </div>
