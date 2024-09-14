@@ -1,23 +1,24 @@
 .sliders {
   position: relative;
   overflow: hidden;
-  margin-bottom: var(--size-24);
   @media screen and (min-width: $lap) {
-    margin-bottom: var(--size-32);
+    margin-bottom: var(--size-16);
   }
   .slider {
     position: relative;
     .slider-inner {
       display: grid;
+      place-items: center;
       grid-template-columns: 1fr;
       row-gap: 20px;
+      padding: 0 0 20px;
       @media screen and (min-width: $lap) {
         max-width: $container;
         margin: 0 auto;
         display: grid;
         column-gap: 20px;
         grid-template-columns: repeat(2, 1fr);
-        padding: 40px 16px 0px;
+        padding: 20px 16px 30px;
         img {
           box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
           border-radius: 20px;
@@ -46,34 +47,29 @@
           order: 1;
           padding: 0;
           padding-right: 10%;
-          padding-top: 10%;
-        }
-        @media screen and (min-width: $desk) {
-          padding-top: 20%;
         }
         &-title {
-          color: var(--col-three);
+          color: var(--col-white);
           font-size: var(--size-28);
           font-weight: 700;
-          margin-bottom: var(--size-12);
+          margin-bottom: var(--size-16);
           @media screen and (min-width: $lap) {
-            color: var(--col-white);
             font-size: var(--size-32);
             margin-bottom: var(--size-24);
           }
           @media screen and (min-width: $desk) {
+            margin-bottom: var(--size-32);
             font-size: var(--size-44);
           }
         }
         &-subtitle {
           line-height: 1.1;
-          color: var(--col-four);
+          color: #f3f3f3;
           font-size: var(--size-18);
           margin-bottom: var(--size-24);
           @media screen and (min-width: $lap) {
             line-height: 1.3;
             margin-bottom: var(--size-40);
-            color: #f3f3f3;
             font-weight: 500;
           }
           @media screen and (min-width: $desk) {
@@ -82,7 +78,7 @@
         }
         &-button {
           height: 40px;
-          font-weight: 600;
+          font-weight: 500;
           display: flex;
           align-items: center;
           justify-content: center;
@@ -102,105 +98,69 @@
       }
     }
     &.bg-1 {
+      background: #e6bb70;
       @media screen and (min-width: $lap) {
-        &::after {
-          content: "";
-          position: absolute;
-          z-index: -1;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 90%;
-          background-color: #e6bb70;
-        }
-      }
-      @media screen and (min-width: $desk) {
-        height: 80%;
+        background: rgb(230, 187, 112);
+        background: linear-gradient(
+          180deg,
+          rgba(230, 187, 112, 1) 0%,
+          rgb(152, 124, 74) 100%
+        );
       }
     }
     &.bg-2 {
+      background: rgb(14, 175, 181);
       @media screen and (min-width: $lap) {
-        &::after {
-          content: "";
-          position: absolute;
-          z-index: -1;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 90%;
-          background-color: #0eafb5;
-        }
-      }
-      @media screen and (min-width: $desk) {
-        height: 80%;
+        background: rgb(14, 175, 181);
+        background: linear-gradient(
+          180deg,
+          rgba(14, 175, 181, 1) 0%,
+          rgba(7, 89, 92, 1) 100%
+        );
       }
     }
     &.bg-3 {
+      background-color: #035078;
       @media screen and (min-width: $lap) {
-        &::after {
-          content: "";
-          position: absolute;
-          z-index: -1;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 90%;
-          background-color: #035078;
-        }
-      }
-      @media screen and (min-width: $desk) {
-        height: 80%;
+        background: rgb(3, 80, 120);
+        background: linear-gradient(
+          180deg,
+          rgba(3, 80, 120, 1) 0%,
+          rgba(1, 57, 87, 1) 100%
+        );
       }
     }
     &.bg-4 {
+      background-color: #df531f;
       @media screen and (min-width: $lap) {
-        &::after {
-          content: "";
-          position: absolute;
-          z-index: -1;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 90%;
-          background-color: #df531f;
-        }
-      }
-      @media screen and (min-width: $desk) {
-        height: 80%;
+        background: rgb(223, 83, 31);
+        background: linear-gradient(
+          180deg,
+          rgba(223, 83, 31, 1) 0%,
+          rgba(131, 49, 19, 1) 100%
+        );
       }
     }
     &.bg-5 {
+      background-color: #57585a;
       @media screen and (min-width: $lap) {
-        &::after {
-          content: "";
-          position: absolute;
-          z-index: -1;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 90%;
-          background-color: #57585a;
-        }
-      }
-      @media screen and (min-width: $desk) {
-        height: 80%;
+        background: rgb(87, 88, 90);
+        background: linear-gradient(
+          180deg,
+          rgba(87, 88, 90, 1) 0%,
+          rgba(55, 56, 57, 1) 100%
+        );
       }
     }
     &.bg-6 {
+      background-color: #fcba13;
       @media screen and (min-width: $lap) {
-        &::after {
-          content: "";
-          position: absolute;
-          z-index: -1;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 90%;
-          background-color: #fcba13;
-        }
-      }
-      @media screen and (min-width: $desk) {
-        height: 80%;
+        background: rgb(252, 186, 19);
+        background: linear-gradient(
+          180deg,
+          rgba(252, 186, 19, 1) 0%,
+          rgba(172, 127, 13, 1) 100%
+        );
       }
     }
   }
@@ -210,8 +170,11 @@
     align-items: center;
     justify-content: center;
     bottom: 0;
-    padding: 16px 0;
+    padding-top: 12px;
     background-color: transparent !important;
+    @media screen and (min-width: $desk) {
+      padding-top: 18px;
+    }
     li {
       width: 30px;
       height: 30px;
@@ -233,9 +196,6 @@
           color: var(--col-three);
         }
       }
-    }
-    @media screen and (min-width: $lap) {
-      padding: 30px 0 20px;
     }
   }
 }

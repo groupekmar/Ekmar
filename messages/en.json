@@ -1,10 +1,10 @@
 {
   "header": {
     "desktopMenu": {
-      "home" : "Home",
-      "about" : "About Us",
-      "products" : "Products",
-      "contact" : "Contact"
+      "home": "Home",
+      "about": "About Us",
+      "products": "Products",
+      "partners": "Partners"
     },
     "contact": {
       "whatsapp": {
@@ -42,6 +42,58 @@
       "title": "Ektar Truck Scales",
       "subtitle": "Truck scales are large weighing platforms designed to measure the weight of vehicles and their loads. They are essential for industries like transportation, agriculture, and construction to ensure accurate weight measurements and compliance with regulations.",
       "button": "Click Here"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "EKMAR GROUP specializes in grain and oilseed storage systems with over 20 years of experience. The company provides consulting, design, and project management, offering turnkey solutions. EKMAR prioritizes quality and long-term customer partnerships.",
+    "expertManufacturer": {
+      "title": "Expert Manufacturer",
+      "subtitle": "EKMAR GROUP specializes in grain and oilseed storage and transportation systems manufacturing, also providing spare parts supply."
+    },
+    "twentyYearsExperience": {
+      "title": "20 Years of Experience",
+      "subtitle": "With over 20 years of experience, the company offers consulting, design, and project management services for both domestic and international projects."
+    },
+    "leadershipGoal": {
+      "title": "Leadership Goal",
+      "subtitle": "The company aims to be a leader in helping customers succeed by offering superior services compared to competitors."
+    },
+    "reliablePartner": {
+      "title": "Reliable Partner",
+      "subtitle": "EKMAR GROUP's mission is to be a reliable, long-term partner, focusing on continuous improvement and fostering a positive culture for partners and employees."
+    }
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "If you are interested in becoming a partner or sponsor, please feel free to contact us."
+  },
+  "offers": {
+    "title": "What We Offer",
+    "subtitle": "Our professional services include expert guidance and thorough control and supervision. We ensure high-quality standards throughout your project. After the warranty period, our post-warranty service provides continued support and maintenance.",
+    "determiningNeeds": {
+      "title": "Determining Needs",
+      "subtitle": "As a result of constant contact with our customers, carried out by our experienced staff, the needs of the Customer are determined and offered by informing and presenting the choice of product, block diagram and layouts for the relevant purposes."
+    },
+    "design": {
+      "title": "Design",
+      "subtitle": "Technological schemes and rough drawings of projects are prepared free of charge in accordance with the identified and agreed needs for our clients. As a result, if the projects are agreed, the pricing phase begins."
+    },
+    "createInfrastructure": {
+      "title": "We Create Infrastructure",
+      "subtitle": "At the request of our customers, we can provide professional services for the construction of foundations and installation of equipment."
+    },
+    "controlAndSupervision": {
+      "title": "Control and Supervision",
+      "subtitle": "Our control and supervision mechanism is fully implemented in every step from design stage, shipment, delivery, assembly, commissioning to production stages, which minimizes errors."
+    },
+    "maintenance": {
+      "title": "Maintenance",
+      "subtitle": "With quality, continuity, reliability, professional service support, qualified service technicians and spare parts guarantees, customer satisfaction is maintained at the highest level."
+    },
+    "postWarrantyService": {
+      "title": "Post-Warranty Service",
+      "subtitle": "Post-warranty service is a great option for equipment owners who want to get the most out of their investment. With us, you can be sure that your equipment will operate efficiently and reliably throughout its entire service life."
     }
   }
 }

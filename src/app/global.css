@@ -233,6 +233,7 @@ body {
   width: 100%;
   font-size: var(--size-16);
   line-height: 1;
+  letter-spacing: 1.1px;
   background-color: var(--col-white);
   color: var(--col-black);
   min-height: 100vh;
@@ -11050,14 +11051,18 @@ img {
   align-items: center;
   justify-content: center;
   gap: 4px;
-  font-size: var(--size-14);
-  font-weight: 700;
-  color: var(--col-white) !important;
   padding: var(--size-6) var(--size-10);
   background-color: #25D366;
   border-radius: 6px;
   transition: all 0.3s linear;
 }
+
+.whatsapp-btn > div {
+  font-size: var(--size-14);
+  font-weight: 600;
+  color: var(--col-white) !important;
+}
+
 
 @media screen and (min-width: 769px) {
   .whatsapp-btn {

@@ -8,7 +8,7 @@ export default function Whatsapp() {
   return (
     <Link className="whatsapp-btn" href="https://wa.me/77017338500">
       <Image src={WhatsappIcon.src}  width="24" height="24" alt="whatsapp" unoptimized />
-      <span>{t("title")}</span>
+      <div>{t("title")}</div>
     </Link>
   );
 }

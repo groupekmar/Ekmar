@@ -4,7 +4,7 @@
       "home": "Ana Sayfa",
       "about": "Hakkımızda",
       "products": "Ürünler",
-      "contact": "İletişim"
+      "partners": "Partnerler"
     },
     "contact": {
       "whatsapp": {
@@ -42,6 +42,58 @@
       "title": "Ektar Kamyon Terazileri",
       "subtitle": "Kamyon terazileri, araçların ve yüklerinin ağırlığını ölçmek için kullanılan büyük tartım platformlarıdır. Bu teraziler, taşımacılık, tarım ve inşaat sektörlerinde doğru ağırlık ölçümleri ve düzenlemelere uyum sağlar.",
       "button": "Buraya Tıklayın"
+    }
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "EKMAR GROUP, 20 yılı aşkın deneyimiyle tahıl ve yağlı tohum depolama sistemlerinde uzmanlaşmıştır. Şirket, danışmanlık, tasarım ve proje yönetimi hizmetleri sunarak anahtar teslim çözümler sağlar. EKMAR, kaliteyi ve uzun vadeli müşteri ilişkilerini ön planda tutar.",
+    "expertManufacturer": {
+      "title": "Uzman Üretici",
+      "subtitle": "EKMAR GROUP, tahıl ve yağlı tohum depolama ve taşıma sistemleri üretimi konusunda uzmanlaşmış, aynı zamanda yedek parça tedariki sağlamaktadır."
+    },
+    "twentyYearsExperience": {
+      "title": "20 Yıllık Deneyim",
+      "subtitle": "20 yılı aşkın deneyime sahip olan şirket, yerel ve uluslararası projelerde danışmanlık, tasarım ve proje yönetimi hizmetleri sunar."
+    },
+    "leadershipGoal": {
+      "title": "Liderlik Hedefi",
+      "subtitle": "Şirket, müşterilere daha iyi hizmet sunarak rakiplerinden üstün olmayı ve başarılı olmalarına katkıda bulunmayı hedefler."
+    },
+    "reliablePartner": {
+      "title": "Güvenilir Ortak",
+      "subtitle": "EKMAR GROUP'un misyonu, sürekli iyileştirme ve olumlu bir kültür yaratma odaklı güvenilir ve uzun vadeli bir iş ortağı olmaktır."
+    }
+  },
+  "partners": {
+    "title": "Partnerlerimiz",
+    "subtitle": "Bir partner veya sponsor olmakla ilgileniyorsanız, lütfen bizimle iletişime geçmekten çekinmeyin."
+  },
+  "offers": {
+    "title": "Neler Sunuyoruz",
+    "subtitle": "Profesyonel hizmetlerimiz, uzman rehberlik ve kapsamlı kontrol ve denetimi içerir. Projeniz boyunca yüksek kalite standartlarını garanti ederiz. Garanti süresi sona erdikten sonra, post-garanti hizmetimiz sürekli destek ve bakım sağlar.",
+    "determiningNeeds": {
+      "title": "İhtiyaçların Belirlenmesi",
+      "subtitle": "Deneyimli personelimiz tarafından yapılan sürekli iletişim sonucunda, müşteri ihtiyaçları belirlenir ve ilgili ürün, blok diyagramı ve yerleşimlerin seçimi hakkında bilgilendirme ve sunum yapılarak teklifler sunulur."
+    },
+    "design": {
+      "title": "Tasarım",
+      "subtitle": "Belirlenen ve onaylanan ihtiyaçlara göre ücretsiz olarak teknoloji şemaları ve kaba çizimler hazırlanır. Projeler onaylandığında, fiyatlandırma aşaması başlar."
+    },
+    "createInfrastructure": {
+      "title": "Altyapı Oluşturma",
+      "subtitle": "Müşterilerimizin talebi doğrultusunda, temellerin inşası ve ekipman montajı için profesyonel hizmetler sunabiliriz."
+    },
+    "controlAndSupervision": {
+      "title": "Kontrol ve Denetim",
+      "subtitle": "Kontrol ve denetim mekanizmamız, tasarım aşamasından sevkiyat, teslimat, montaj, devreye alma ve üretim aşamalarına kadar her adımda tam olarak uygulanır ve hataları minimize eder."
+    },
+    "maintenance": {
+      "title": "Bakım",
+      "subtitle": "Kalite, süreklilik, güvenilirlik, profesyonel hizmet desteği, nitelikli servis teknisyenleri ve yedek parça garantileri ile müşteri memnuniyeti en yüksek seviyede tutulur."
+    },
+    "postWarrantyService": {
+      "title": "Post-Garanti Hizmeti",
+      "subtitle": "Post-garanti hizmeti, yatırımınızdan en iyi şekilde faydalanmak isteyen ekipman sahipleri için harika bir seçenektir. Bizimle, ekipmanınızın tüm servis ömrü boyunca verimli ve güvenilir çalışacağından emin olabilirsiniz."
     }
   }
 }

@@ -14,13 +14,13 @@ export default function DesktopMenu() {
           <Link href="#">{t("home")}</Link>
         </li>
         <li>
-          <Link href="#">{t("about")}</Link>
+          <Link href="#about">{t("about")}</Link>
         </li>
         <li>
           <Link href={`/${locale}/products`}>{t("products")}</Link>
         </li>
         <li>
-          <Link href="#">{t("contact")}</Link>
+          <Link href="#partners">{t("partners")}</Link>
         </li>
       </ul>
     </div>

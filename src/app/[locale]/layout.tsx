@@ -1,13 +1,16 @@
 import React from "react";
 import "/src/app/global.css";
 import type { Metadata } from "next";
-import { Nunito } from "next/font/google";
+import { Roboto } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getLocale, getMessages } from "next-intl/server";
 import Header from "@/components/header/Header";
 import Footer from "@/components/footer/Footer";
 
-const nunito = Nunito({ subsets: ["latin"] });
+const roboto = Roboto({
+  weight: '400',
+  subsets: ['latin']
+})
 
 export const metadata: Metadata = {
   title: "Ekmar Group",
@@ -24,7 +27,7 @@ export default async function RootLayout({
 
   return (
     <html lang={locale}>
-      <body className={`${nunito.className} antialiased`}>
+      <body className={`${roboto.className} antialiased`}>
         <NextIntlClientProvider messages={messages}>
           <Header />
           {children}
