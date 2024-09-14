@@ -8,10 +8,9 @@
     position: relative;
     .slider-inner {
       display: grid;
-      place-items: center;
       grid-template-columns: 1fr;
       row-gap: 20px;
-      padding: 0 0 20px;
+      padding: 0 0 40px;
       @media screen and (min-width: $lap) {
         max-width: $container;
         margin: 0 auto;
@@ -42,7 +41,6 @@
         padding: 0 8px;
         @media screen and (min-width: $lap) {
           text-align: left;
-          justify-content: flex-start;
           align-items: flex-start;
           order: 1;
           padding: 0;

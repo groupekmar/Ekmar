@@ -1,18 +1,21 @@
 .offers {
   background-color: #f3f3f3;
-  padding: var(--size-32) 0 var(--size-24);
+  padding: var(--size-40) 0 var(--size-32);
   margin-bottom: var(--size-48);
   @media screen and (min-width: $lap) {
     padding: var(--size-60) 0;
     margin-bottom: var(--size-60);
   }
   &-title {
-    font-size: var(--size-40);
+    font-size: var(--size-32);
     line-height: 1.2;
     color: var(--col-black);
     text-align: center;
     font-weight: 700;
     margin-bottom: var(--size-12);
+    @media screen and (min-width: $lap) {
+      font-size: var(--size-40);
+    }
   }
   &-subtitle {
     color: var(--col-four);

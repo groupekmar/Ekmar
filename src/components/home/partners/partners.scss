@@ -4,12 +4,15 @@
     padding: 40px 0;
   }
   &-title {
-    font-size: var(--size-40);
+    font-size: var(--size-32);
     line-height: 1.2;
     color: var(--col-black);
     text-align: center;
     font-weight: 700;
     margin-bottom: var(--size-12);
+    @media screen and (min-width: $lap) {
+      font-size: var(--size-40);
+    }
   }
   &-subtitle {
     color: var(--col-four);
