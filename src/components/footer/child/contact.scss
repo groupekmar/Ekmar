@@ -36,8 +36,11 @@
     }
   }
   .contact-form {
-    @media screen and (min-width: $desk) {
+    @media screen and (min-width: $lap) {
       padding-left: 40px;
+    }
+    @media screen and (min-width: $desk) {
+      padding-left: 60px;
     }
     .form-inputs {
       @media screen and (min-width: $tab) {
@@ -95,12 +98,15 @@
   }
   .form-button {
     margin-top: 18px;
-    @media screen and (min-width: $sm) {
+    @media screen and (min-width: $tab) {
       margin-top: var(--size-32);
-      width: 200px;
+      width: 33%;
+    }
+    @media screen and (min-width: $lap) {
+      width: 120px;
     }
     button {
-      height: 40px;
+      height: 48px;
       font-weight: 500;
       display: flex;
       align-items: center;
@@ -108,10 +114,12 @@
       background-color: var(--col-black);
       color: var(--col-white);
       border-radius: 6px;
-      padding: 8px 12px;
       min-width: 120px;
       transition: all 0.5s linear;
       width: 100%;
+      @media screen and (min-width: $lap) {
+        font-size: var(--size-18);
+      }
     }
   }
   .error-messsage {

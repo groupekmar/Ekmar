@@ -4,7 +4,7 @@ import Image from "next/image";
 import React, { useState, useRef } from "react";
 import emailjs from "@emailjs/browser";
 import { useTranslations } from "next-intl";
-import ContactPhoto from "/src/assets/footer/contact.png";
+import ContactPhoto from "/src/assets/footer/contact.webp";
 import ConfirmIcon from "/src/assets/footer/confirm.svg";
 
 export default function Contact() {
