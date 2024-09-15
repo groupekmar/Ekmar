@@ -1,16 +1,13 @@
 import React from "react";
 import "/src/app/global.css";
 import type { Metadata } from "next";
-import { Roboto } from "next/font/google";
+import { Lunasima } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getLocale, getMessages } from "next-intl/server";
 import Header from "@/components/header/Header";
 import Footer from "@/components/footer/Footer";
 
-const roboto = Roboto({
-  weight: '400',
-  subsets: ['latin']
-})
+const rochester = Lunasima({ subsets: ['latin'], weight: '400' })
 
 export const metadata: Metadata = {
   title: "Ekmar Group",
@@ -27,7 +24,7 @@ export default async function RootLayout({
 
   return (
     <html lang={locale}>
-      <body className={`${roboto.className} antialiased`}>
+      <body className={`${rochester.className} antialiased`}>
         <NextIntlClientProvider messages={messages}>
           <Header />
           {children}

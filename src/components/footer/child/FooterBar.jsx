@@ -13,6 +13,34 @@ export default function FooterBar() {
     <div className="footer-bar">
       <div className="container">
         <div className="row">
+          
+        <div className="box-lap-3">
+            <div className="footer-links">
+              <div>
+                {p("title")}
+              </div>
+              <ul>
+                <li>
+                  <Link href={`/${locale}/${p("mill.url")}`}>{p("mill.title")}</Link>
+                </li>
+                <li>
+                  <Link href={`/${locale}/${p("feedMill.url")}`}>{p("feedMill.title")}</Link>
+                </li>
+                <li>
+                  <Link href={`/${locale}/${p("auto.url")}`}>{p("auto.title")}</Link>
+                </li>
+                <li>
+                  <Link href={`/${locale}/${p("glbSilo.url")}`}>{p("glbSilo.title")}</Link>
+                </li>
+                <li>
+                  <Link href={`/${locale}/${p("seed.url")}`}>{p("seed.title")}</Link>
+                </li>
+                <li>
+                  <Link href={`/${locale}/${p("ektar.url")}`}>{p("ektar.title")}</Link>
+                </li>
+              </ul>
+            </div>
+          </div>
           <div className="box-lap-3">
             <div className="firm-detail">
               <div className="firm-detail-item title">
@@ -80,33 +108,6 @@ export default function FooterBar() {
                 <AddressIcon />
                 <div>{t("uzbekistan.address")}</div>
               </div>
-            </div>
-          </div>
-          <div className="box-lap-3">
-            <div className="footer-links">
-              <div>
-                {p("title")}
-              </div>
-              <ul>
-                <li>
-                  <Link href={`/${locale}/${p("mill.url")}`}>{p("mill.title")}</Link>
-                </li>
-                <li>
-                  <Link href={`/${locale}/${p("feedMill.url")}`}>{p("feedMill.title")}</Link>
-                </li>
-                <li>
-                  <Link href={`/${locale}/${p("auto.url")}`}>{p("auto.title")}</Link>
-                </li>
-                <li>
-                  <Link href={`/${locale}/${p("glbSilo.url")}`}>{p("glbSilo.title")}</Link>
-                </li>
-                <li>
-                  <Link href={`/${locale}/${p("seed.url")}`}>{p("seed.title")}</Link>
-                </li>
-                <li>
-                  <Link href={`/${locale}/${p("ektar.url")}`}>{p("ektar.title")}</Link>
-                </li>
-              </ul>
             </div>
           </div>
         </div>
