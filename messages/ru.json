@@ -4,7 +4,8 @@
       "home": "Главная",
       "about": "О нас",
       "products": "Продукты",
-      "partners" : "Партнеры"
+      "partners": "Партнеры",
+      "contact": "Контакт"
     },
     "contact": {
       "whatsapp": {
@@ -94,6 +95,86 @@
     "postWarrantyService": {
       "title": "Постгарантийное Обслуживание",
       "subtitle": "Постгарантийное обслуживание является отличным вариантом для владельцев оборудования, которые хотят получить максимальную отдачу от своих инвестиций. С нами вы можете быть уверены, что ваше оборудование будет работать эффективно и надежно на протяжении всего срока службы."
+    }
+  },
+  "contact": {
+    "title": "Свяжитесь с нами",
+    "subtitle": "",
+    "name": "Имя",
+    "email": "Электронная почта",
+    "subject": "Тема",
+    "phone": "Телефон",
+    "message": "Сообщение",
+    "placeholder_name": "Введите ваше имя",
+    "placeholder_email": "Введите вашу электронную почту",
+    "placeholder_subject": "Введите тему",
+    "placeholder_phone": "Введите ваш номер телефона",
+    "placeholder_message": "Введите ваше сообщение",
+    "sentTitle": "Спасибо за ваше обращение!",
+    "sentSubtitle": "Наша команда рассмотрит ваше сообщение и свяжется с вами в ближайшее время по поводу вашего вопроса.",
+    "sentText": "Отправить",
+    "errorMessage": "Пожалуйста, заполните обязательные поля или проверьте информацию."
+  },
+  "footer": {
+    "copyright": {
+      "copy1": "Авторские права Ekmar Group.",
+      "copy2": "Разработано Berry Css 2024"
+    },
+    "address": {
+      "turkey": {
+        "country": "Турция",
+        "phone": "905416468799",
+        "phoneTitle": "(+90) 541 646 87 99",
+        "email": "info@glbsilo.com",
+        "address": "Мансуроглу Мах. 288-я улица №31 Байраклы/Измир"
+      },
+      "kazakhstan": {
+        "country": "Казахстан",
+        "phone": "77017338500",
+        "phoneTitle": "(+7) 701 733 8500",
+        "email": "info@ekmargroup.com",
+        "address": "Улица Ахмета Жубанова 31 Астана/Казахстан"
+      },
+      "uzbekistan": {
+        "country": "Узбекистан",
+        "phone": "998900962393",
+        "phoneTitle": "(+998) 90 096 23 93",
+        "email": "info@ekmargroup.com",
+        "address": "Улица Лабзак №97 Ташкент/Узбекистан"
+      }
+    }
+  },
+  "products": {
+    "title": "Продукция",
+    "mill": {
+      "title": "Мельничное обор.",
+      "url": "/products/mill/",
+      "homeImage": "/image/millHomeImage.webp"
+    },
+    "feedMill": {
+      "title": "Обор. для корм. мельниц",
+      "url": "/products/feedMill/",
+      "homeImage": "/image/feedMillHomeImage.webp"
+    },
+    "auto": {
+      "title": "Автоматизация",
+      "url": "/products/auto/",
+      "homeImage": "/image/autoHomeImage.webp"
+    },
+    "glbSilo": {
+      "title": "GLB Silo",
+      "url": "/products/glbSilo/",
+      "homeImage": "/image/glbSiloHomeImage.webp"
+    },
+    "seed": {
+      "title": "Очистка семян",
+      "url": "/products/seed/",
+      "homeImage": "/image/seedHomeImage.webp"
+    },
+    "ektar": {
+      "title": "Авт. весы Ektar",
+      "url": "/products/ektar/",
+      "homeImage": "/image/ektarHomeImage.webp"
     }
   }
 }

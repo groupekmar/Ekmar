@@ -4,7 +4,8 @@
       "home": "Ana Sayfa",
       "about": "Hakkımızda",
       "products": "Ürünler",
-      "partners": "Partnerler"
+      "partners": "Partnerler",
+      "contact": "İletişim"
     },
     "contact": {
       "whatsapp": {
@@ -94,6 +95,86 @@
     "postWarrantyService": {
       "title": "Post-Garanti Hizmeti",
       "subtitle": "Post-garanti hizmeti, yatırımınızdan en iyi şekilde faydalanmak isteyen ekipman sahipleri için harika bir seçenektir. Bizimle, ekipmanınızın tüm servis ömrü boyunca verimli ve güvenilir çalışacağından emin olabilirsiniz."
+    }
+  },
+  "contact": {
+    "title": "Bize Ulaşın",
+    "subtitle": "Herhangi bir sorunuz veya endişeniz varsa bize ulaşmaktan çekinmeyin. Müşteri destek ekibimiz size yardımcı olmak için 7/24 hizmetinizdedir ve bize telefon, e-posta veya çevrimiçi formumuz aracılığıyla ulaşabilirsiniz.",
+    "name": "İsim",
+    "email": "E-posta",
+    "subject": "Konu",
+    "phone": "Telefon",
+    "message": "Mesaj",
+    "placeholder_name": "Adınızı Girin",
+    "placeholder_email": "E-postanızı Girin",
+    "placeholder_subject": "Konuyu Girin",
+    "placeholder_phone": "Telefon Numaranızı Girin",
+    "placeholder_message": "Mesajınızı Girin",
+    "sentTitle": "Bize Ulaştığınız İçin Teşekkürler!",
+    "sentSubtitle": "Ekibimiz mesajınızı inceleyip, sorununuz ile ilgili size en kısa sürede geri dönecektir.",
+    "sentText": "Gönder",
+    "errorMessage": "Lütfen Gerekli alanları doldurun veya bilgileri kontrol edin."
+  },
+  "footer": {
+    "copyright": {
+      "copy1": "Telif Hakkı Ekmar Group'a Aittir.",
+      "copy2": "2024 Berry Css tarafından tasarlanmıştır"
+    },
+    "address": {
+      "turkey": {
+        "country": "Türkiye",
+        "phone": "905416468799",
+        "phoneTitle": "(+90) 541 646 87 99",
+        "email": "info@glbsilo.com",
+        "address": "Mansuroğlu Mah. 288. Sokak No:31 Bayraklı/İzmir"
+      },
+      "kazakhstan": {
+        "country": "Kazakhstan",
+        "phone": "77017338500",
+        "phoneTitle": "(+7) 701 733 8500",
+        "email": "info@ekmargroup.com",
+        "address": "Akhmet Zhubanov Caddesi 31 Astana/Kazakhstan"
+      },
+      "uzbekistan": {
+        "country": "Özbekistan",
+        "phone": "998900962393",
+        "phoneTitle": "(+998) 90 096 23 93",
+        "email": "info@ekmargroup.com",
+        "address": "Labzak Caddesi No: 97 Taşkent/Özbekistan"
+      }
+    }
+  },
+  "products": {
+    "title": "Ürünler",
+    "mill": {
+      "title": "Değirmen Ekipmanları",
+      "url": "/products/mill/",
+      "homeImage": "/image/millHomeImage.webp"
+    },
+    "feedMill": {
+      "title": "Yem Değirmeni Ekipmanları",
+      "url": "/products/feedMill/",
+      "homeImage": "/image/feedMillHomeImage.webp"
+    },
+    "auto": {
+      "title": "Otomasyon Sistemleri",
+      "url": "/products/auto/",
+      "homeImage": "/image/autoHomeImage.webp"
+    },
+    "glbSilo": {
+      "title": "GLB Silo",
+      "url": "/products/glbSilo/",
+      "homeImage": "/image/glbSiloHomeImage.webp"
+    },
+    "seed": {
+      "title": "Tohum Temizleme Tekn.",
+      "url": "/products/seed/",
+      "homeImage": "/image/seedHomeImage.webp"
+    },
+    "ektar": {
+      "title": "Ektar Kamyon Kantarı",
+      "url": "/products/ektar/",
+      "homeImage": "/image/ektarHomeImage.webp"
     }
   }
 }

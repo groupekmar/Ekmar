@@ -1,0 +1,122 @@
+footer {
+  .copyright {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 12px;
+    padding: var(--size-20) 0;
+    @media screen and (min-width: $lap) {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+  .footer-bar {
+    background-image: url("/footerbg.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: var(--size-48) 0 var(--size-48);
+    @media screen and (min-width: $lap) {
+      padding: var(--size-100) 0 var(--size-100);
+    }
+    .firm-detail {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      @media screen and (max-width: $lap) {
+        margin-bottom: 44px;
+        gap: 16px;
+      }
+      &-item {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        > a {
+          transition: all 0.3s linear;
+          @media screen and (min-width: $lap) {
+            &:hover {
+              color: var(--col-three);
+            }
+          }
+        }
+        svg {
+          flex: 0 0 auto;
+        }
+        &.title {
+          position: relative;
+          font-size: var(--size-20);
+          font-weight: 600;
+          letter-spacing: 0px;
+          text-transform: uppercase;
+          gap: 4px;
+          padding-bottom: 6px;
+          &:after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            height: 1px;
+            width: 25%;
+            background-color: var(--col-three);
+            @media screen and (min-width: $lap) {
+              width: 50%;
+            }
+          }
+        }
+        &:last-child {
+          align-items: flex-start;
+          padding-right: 20%;
+        }
+      }
+    }
+    .footer-links {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      > div {
+        position: relative;
+        font-size: var(--size-20);
+        font-weight: 600;
+        letter-spacing: 0px;
+        text-transform: uppercase;
+        gap: 4px;
+        padding-bottom: 6px;
+        &:after {
+          content: "";
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          height: 1px;
+          width: 25%;
+          background-color: var(--col-three);
+          @media screen and (min-width: $lap) {
+            width: 50%;
+          }
+        }
+      }
+      > ul {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        > li {
+          height: 24px;
+          display: flex;
+          align-items: center;
+          a {
+            font-size: 20px;
+            transition: all 0.3s linear;
+          }
+          @media screen and (min-width: $lap) {
+            &:hover {
+              a {
+                color: var(--col-three);
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

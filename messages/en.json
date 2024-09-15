@@ -4,7 +4,8 @@
       "home": "Home",
       "about": "About Us",
       "products": "Products",
-      "partners": "Partners"
+      "partners": "Partners",
+      "contact": "Contact"
     },
     "contact": {
       "whatsapp": {
@@ -94,6 +95,86 @@
     "postWarrantyService": {
       "title": "Post-Warranty Service",
       "subtitle": "Post-warranty service is a great option for equipment owners who want to get the most out of their investment. With us, you can be sure that your equipment will operate efficiently and reliably throughout its entire service life."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Feel free to contact us if you have any questions or concerns. Our customer support team is available 24/7 to assist you, and you can reach us via phone, email, or our online form.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "phone": "Phone",
+    "message": "Message",
+    "placeholder_name": "Enter Your Name",
+    "placeholder_email": "Enter Your Email",
+    "placeholder_subject": "Enter The Subject",
+    "placeholder_phone": "Enter Your Phone Number",
+    "placeholder_message": "Enter Your Message",
+    "sentTitle": "Thank You for Reaching Out!",
+    "sentSubtitle": "Our team will review your message and get back to you shortly with a response to address your inquiry or concern.",
+    "sentText": "Send Now",
+    "errorMessage": "Please fill in the required fields or check the information."
+  },
+  "footer": {
+    "copyright": {
+      "copy1": "Copyright by Ekmar Group.",
+      "copy2": "Designed by Berry Css 2024"
+    },
+    "address": {
+      "turkey": {
+        "country": "Turkey",
+        "phone": "905416468799",
+        "phoneTitle": "(+90) 541 646 87 99",
+        "email": "info@glbsilo.com",
+        "address": "Mansuroğlu Mah. 288th Street No:31 Bayraklı/İzmir"
+      },
+      "kazakhstan": {
+        "country": "Kazakhstan",
+        "phone": "77017338500",
+        "phoneTitle": "(+7) 701 733 8500",
+        "email": "info@ekmargroup.com",
+        "address": "Akhmet Zhubanov Street 31 Astana/Kazakhstan"
+      },
+      "uzbekistan": {
+        "country": "Uzbekistan",
+        "phone": "998900962393",
+        "phoneTitle": "(+998) 90 096 23 93",
+        "email": "info@ekmargroup.com",
+        "address": "Labzak Street No: 97 Tashkent/Uzbekistan"
+      }
+    }
+  },
+  "products": {
+    "title": "Products",
+    "mill": {
+      "title": "Milling Equipments",
+      "url": "/products/mill/",
+      "homeImage": "/image/millHomeImage.webp"
+    },
+    "feedMill": {
+      "title": "Feed Milling Equipments",
+      "url": "/products/feedMill/",
+      "homeImage": "/image/feedMillHomeImage.webp"
+    },
+    "auto": {
+      "title": "Automation Systems",
+      "url": "/products/auto/",
+      "homeImage": "/image/autoHomeImage.webp"
+    },
+    "glbSilo": {
+      "title": "GLB Silo",
+      "url": "/products/glbSilo/",
+      "homeImage": "/image/glbSiloHomeImage.webp"
+    },
+    "seed": {
+      "title": "Seed Cleaning Tech.",
+      "url": "/products/seed/",
+      "homeImage": "/image/seedHomeImage.webp"
+    },
+    "ektar": {
+      "title": "Ektar Truck Scales",
+      "url": "/products/ektar/",
+      "homeImage": "/image/ektarHomeImage.webp"
     }
   }
 }

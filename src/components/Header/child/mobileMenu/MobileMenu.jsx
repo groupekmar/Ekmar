@@ -1,18 +1,18 @@
 "use client";
 import "./mobileMenu.scss";
 import { useTranslations, useLocale } from "next-intl";
-import React,{ useState } from 'react';
+import React, { useState } from 'react';
 import Link from "next/link";
 import HamburgerIcon from "/src/assets/header/hamburger.svg";
 import CloseIcon from "/src/assets/header/close.svg";
 
 export default function MobileMenu() {
-  const [isActive, setisActive] = useState(false);
+  const [isActive, setIsActive] = useState(false);
   const t = useTranslations("header.desktopMenu");
-  const locale = "/" + useLocale();
+  const locale = useLocale();  // Mevcut dili al
 
   const toggleMenu = () => {
-    setisActive((isActive) => !isActive);
+    setIsActive((isActive) => !isActive);
     document.querySelector("body").classList.toggle("overlay-active");
   };
 
@@ -27,16 +27,19 @@ export default function MobileMenu() {
             </div>
             <ul>
               <li>
-                <Link onClick={toggleMenu} href={`${locale}`}>{t("home")}</Link>
+                <Link onClick={toggleMenu} href={`/${locale}`}>{t("home")}</Link>
               </li>
               <li>
-                <Link onClick={toggleMenu} href={`${locale}/#abouts`}>{t("about")}</Link>
+                <Link onClick={toggleMenu} href={`/${locale}/#about`}>{t("about")}</Link>
               </li>
               <li>
-                <Link onClick={toggleMenu} href={`${locale}/products`}>{t("products")}</Link>
+                <Link onClick={toggleMenu} href={`/${locale}/#products`}>{t("products")}</Link>
               </li>
               <li>
-                <Link onClick={toggleMenu} href={`${locale}/#partners`}>{t("partners")}</Link>
+                <Link onClick={toggleMenu} href={`/${locale}/#partners`}>{t("partners")}</Link>
+              </li>
+              <li>
+                <Link onClick={toggleMenu} href={`/${locale}/#contact`}>{t("contact")}</Link>
               </li>
             </ul>
           </div>

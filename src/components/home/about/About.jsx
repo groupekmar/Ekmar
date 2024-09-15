@@ -22,6 +22,7 @@ export default function About() {
             <div className="about-image">
               <Image
                 loading="lazy"
+                unoptimized
                 width={700}
                 height={500}
                 className="image-center rad-12"
