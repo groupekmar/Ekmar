@@ -145,36 +145,189 @@
     }
   },
   "products": {
-    "title": "Продукция",
+    "title": "Наша продукция",
+    "subtitle": "Оптимизируйте свои производственные процессы с помощью передового оборудования для помола, интеллектуальных систем автоматизации и высокоточных автомобильных весов. Повышайте эффективность, точность и производительность с помощью инновационных решений, созданных для безупречной интеграции.",
     "mill": {
       "title": "Мельничное обор.",
       "url": "/products/mill/",
-      "homeImage": "/image/millHomeImage.webp"
+      "image": "/image/products/mill.webp"
     },
-    "feedMill": {
+    "feed": {
       "title": "Обор. для корм. мельниц",
-      "url": "/products/feedMill/",
-      "homeImage": "/image/feedMillHomeImage.webp"
+      "url": "/products/feed/",
+      "image": "/image/products/feed.webp"
     },
     "auto": {
       "title": "Автоматизация",
       "url": "/products/auto/",
-      "homeImage": "/image/autoHomeImage.webp"
+      "image": "/image/products/auto.webp"
     },
-    "glbSilo": {
+    "glb": {
       "title": "GLB Silo",
-      "url": "/products/glbSilo/",
-      "homeImage": "/image/glbSiloHomeImage.webp"
+      "url": "/products/glb/",
+      "image": "/image/products/glb.webp"
     },
     "seed": {
       "title": "Очистка семян",
       "url": "/products/seed/",
-      "homeImage": "/image/seedHomeImage.webp"
+      "image": "/image/products/seed.webp"
     },
     "ektar": {
       "title": "Авт. весы Ektar",
       "url": "/products/ektar/",
-      "homeImage": "/image/ektarHomeImage.webp"
+      "image": "/image/products/ektar.webp"
+    }
+  },
+  "millPage": {
+    "topTitle": "Оборудование для помола",
+    "topImage": "/image/products/mill/millTop.webp",
+    "millingSection": {
+      "title": "Секция Помола",
+      "product1": {
+        "title": "Вальцовый Станок (EKA-4)",
+        "image": "/image/products/mill/milling-section/1.webp"
+      },
+      "product2": {
+        "title": "Вальцовый Станок ODV 250X1000",
+        "image": "/image/products/mill/milling-section/2.webp"
+      },
+      "product3": {
+        "title": "Планситтер",
+        "image": "/image/products/mill/milling-section/3.webp"
+      },
+      "product4": {
+        "title": "Пюрифайер",
+        "image": "/image/products/mill/milling-section/4.webp"
+      },
+      "product5": {
+        "title": "Контрольный Рассев",
+        "image": "/image/products/mill/milling-section/5.webp"
+      },
+      "product6": {
+        "title": "Суперсоник Фильтр",
+        "image": "/image/products/mill/milling-section/6.webp"
+      },
+      "product7": {
+        "title": "Финишер Отрубей",
+        "image": "/image/products/mill/milling-section/7.webp"
+      },
+      "product8": {
+        "title": "Вибро Рассев",
+        "image": "/image/products/mill/milling-section/8.webp"
+      },
+      "product9": {
+        "title": "Энтолейтер",
+        "image": "/image/products/mill/milling-section/9.webp"
+      },
+      "product10": {
+        "title": "Дистрибьютор",
+        "image": "/image/products/mill/milling-section/10.webp"
+      },
+      "product11": {
+        "title": "Крушитель",
+        "image": "/image/products/mill/milling-section/11.webp"
+      },
+      "product12": {
+        "title": "Вентилятор Высокого Давления",
+        "image": "/image/products/mill/milling-section/12.webp"
+      }
+    },
+    "cleaningSection": {
+      "title": "Секция Очистки",
+      "product1": {
+        "title": "Зерноочиститель",
+        "image": "/image/products/mill/cleaning-section/1.webp"
+      },
+      "product2": {
+        "title": "Зерноочиститель Vidro",
+        "image": "/image/products/mill/cleaning-section/2.webp"
+      },
+      "product3": {
+        "title": "Радиальный Аспиратор",
+        "image": "/image/products/mill/cleaning-section/3.webp"
+      },
+      "product4": {
+        "title": "Воздушный Канал",
+        "image": "/image/products/mill/cleaning-section/4.webp"
+      },
+      "product5": {
+        "title": "Триер",
+        "image": "/image/products/mill/cleaning-section/5.webp"
+      },
+      "product6": {
+        "title": "Камнеотделитель",
+        "image": "/image/products/mill/cleaning-section/6.webp"
+      },
+      "product7": {
+        "title": "Очищатель",
+        "image": "/image/products/mill/cleaning-section/7.webp"
+      },
+      "product8": {
+        "title": "Трубчатый Магнит",
+        "image": "/image/products/mill/cleaning-section/8.webp"
+      },
+      "product9": {
+        "title": "Магнит",
+        "image": "/image/products/mill/cleaning-section/9.webp"
+      },
+      "product10": {
+        "title": "Увлажнитель",
+        "image": "/image/products/mill/cleaning-section/10.webp"
+      },
+      "product11": {
+        "title": "Наклонный Увлажнитель",
+        "image": "/image/products/mill/cleaning-section/11.webp"
+      },
+      "product12": {
+        "title": "Вертикальная Мойка",
+        "image": "/image/products/mill/cleaning-section/12.webp"
+      }
+    },
+    "TransportationEquipment": {
+      "title": "Транспортное Оборудование",
+      "product1": {
+        "title": "Ковшовый Элеватор",
+        "image": "/image/products/mill/transportation-equipment/1.webp"
+      },
+      "product2": {
+        "title": "Шнековый Конвейер",
+        "image": "/image/products/mill/transportation-equipment/2.webp"
+      },
+      "product3": {
+        "title": "Цепной Конвейер",
+        "image": "/image/products/mill/transportation-equipment/3.webp"
+      },
+      "product4": {
+        "title": "Воздуходувка",
+        "image": "/image/products/mill/transportation-equipment/4.webp"
+      },
+      "product5": {
+        "title": "Воздушный Затвор",
+        "image": "/image/products/mill/transportation-equipment/5.webp"
+      },
+      "product6": {
+        "title": "Смесительная Машина",
+        "image": "/image/products/mill/transportation-equipment/6.webp"
+      }
+    },
+    "packingSection": {
+      "title": "Секция Упаковки",
+      "product1": {
+        "title": "Упаковочная Машина",
+        "image": "/image/products/mill/packing-section/1.webp"
+      },
+      "product2": {
+        "title": "Карусельная Упаковка",
+        "image": "/image/products/mill/packing-section/2.webp"
+      },
+      "product3": {
+        "title": "Трубчатый Шнек",
+        "image": "/image/products/mill/packing-section/3.webp"
+      },
+      "product4": {
+        "title": "Ротофлоу",
+        "image": "/image/products/mill/packing-section/4.webp"
+      }
     }
   }
 }

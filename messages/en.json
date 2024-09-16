@@ -145,36 +145,189 @@
     }
   },
   "products": {
-    "title": "Products",
+    "title": "Our Products",
+    "subtitle": "Optimize your industrial operations with advanced milling equipment, intelligent automation systems, and precision-engineered truck scales. Enhance efficiency, accuracy, and productivity with cutting-edge solutions tailored for seamless integration",
     "mill": {
       "title": "Milling Equipments",
       "url": "/products/mill/",
-      "homeImage": "/image/millHomeImage.webp"
+      "image": "/image/products/mill.webp"
     },
-    "feedMill": {
+    "feed": {
       "title": "Feed Milling Equipments",
-      "url": "/products/feedMill/",
-      "homeImage": "/image/feedMillHomeImage.webp"
+      "url": "/products/feed/",
+      "image": "/image/products/feed.webp"
     },
     "auto": {
       "title": "Automation Systems",
       "url": "/products/auto/",
-      "homeImage": "/image/autoHomeImage.webp"
+      "image": "/image/products/auto.webp"
     },
-    "glbSilo": {
+    "glb": {
       "title": "GLB Silo",
-      "url": "/products/glbSilo/",
-      "homeImage": "/image/glbSiloHomeImage.webp"
+      "url": "/products/glb/",
+      "image": "/image/products/glb.webp"
     },
     "seed": {
       "title": "Seed Cleaning Tech.",
       "url": "/products/seed/",
-      "homeImage": "/image/seedHomeImage.webp"
+      "image": "/image/products/seed.webp"
     },
     "ektar": {
       "title": "Ektar Truck Scales",
       "url": "/products/ektar/",
-      "homeImage": "/image/ektarHomeImage.webp"
+      "image": "/image/products/ektar.webp"
+    }
+  },
+  "millPage": {
+    "topTitle": "Milling Equipments",
+    "topImage": "/image/products/mill/millTop.webp",
+    "millingSection": {
+      "title": "Milling Section",
+      "product1": {
+        "title": "Roller Mill Vals (EKA-4)",
+        "image": "/image/products/mill/milling-section/1.webp"
+      },
+      "product2": {
+        "title": "Roller Mill ODV 250X1000",
+        "image": "/image/products/mill/milling-section/2.webp"
+      },
+      "product3": {
+        "title": "Plansifter",
+        "image": "/image/products/mill/milling-section/3.webp"
+      },
+      "product4": {
+        "title": "Purifier",
+        "image": "/image/products/mill/milling-section/4.webp"
+      },
+      "product5": {
+        "title": "Control Sifter",
+        "image": "/image/products/mill/milling-section/5.webp"
+      },
+      "product6": {
+        "title": "Supersonic Filter",
+        "image": "/image/products/mill/milling-section/6.webp"
+      },
+      "product7": {
+        "title": "Bran Finisher",
+        "image": "/image/products/mill/milling-section/7.webp"
+      },
+      "product8": {
+        "title": "Vibro Sifter",
+        "image": "/image/products/mill/milling-section/8.webp"
+      },
+      "product9": {
+        "title": "Entoleter",
+        "image": "/image/products/mill/milling-section/9.webp"
+      },
+      "product10": {
+        "title": "Distributor",
+        "image": "/image/products/mill/milling-section/10.webp"
+      },
+      "product11": {
+        "title": "Crusher",
+        "image": "/image/products/mill/milling-section/11.webp"
+      },
+      "product12": {
+        "title": "High Pressure Fan",
+        "image": "/image/products/mill/milling-section/12.webp"
+      }
+    },
+    "cleaningSection": {
+      "title": "Cleaning Section",
+      "product1": {
+        "title": "Grain Seperator",
+        "image": "/image/products/mill/cleaning-section/1.webp"
+      },
+      "product2": {
+        "title": "Vidro Grain Seperator",
+        "image": "/image/products/mill/cleaning-section/2.webp"
+      },
+      "product3": {
+        "title": "Radial Aspirator",
+        "image": "/image/products/mill/cleaning-section/3.webp"
+      },
+      "product4": {
+        "title": "Air Channel",
+        "image": "/image/products/mill/cleaning-section/4.webp"
+      },
+      "product5": {
+        "title": "Trieur",
+        "image": "/image/products/mill/cleaning-section/5.webp"
+      },
+      "product6": {
+        "title": "Stone Seperator",
+        "image": "/image/products/mill/cleaning-section/6.webp"
+      },
+      "product7": {
+        "title": "Scourer",
+        "image": "/image/products/mill/cleaning-section/7.webp"
+      },
+      "product8": {
+        "title": "Tubular Magnet",
+        "image": "/image/products/mill/cleaning-section/8.webp"
+      },
+      "product9": {
+        "title": "Magnet",
+        "image": "/image/products/mill/cleaning-section/9.webp"
+      },
+      "product10": {
+        "title": "Dampening",
+        "image": "/image/products/mill/cleaning-section/10.webp"
+      },
+      "product11": {
+        "title": "Inclined Dampening",
+        "image": "/image/products/mill/cleaning-section/11.webp"
+      },
+      "product12": {
+        "title": "Vertical Washing",
+        "image": "/image/products/mill/cleaning-section/12.webp"
+      }
+    },
+    "TransportationEquipment": {
+      "title": "Transportation Equipment",
+      "product1": {
+        "title": "Bucket Elevator",
+        "image": "/image/products/mill/transportation-equipment/1.webp"
+      },
+      "product2": {
+        "title": "Screw Conveyor",
+        "image": "/image/products/mill/transportation-equipment/2.webp"
+      },
+      "product3": {
+        "title": "Chain Conveyor",
+        "image": "/image/products/mill/transportation-equipment/3.webp"
+      },
+      "product4": {
+        "title": "Blower",
+        "image": "/image/products/mill/transportation-equipment/4.webp"
+      },
+      "product5": {
+        "title": "Air Lock",
+        "image": "/image/products/mill/transportation-equipment/5.webp"
+      },
+      "product6": {
+        "title": "Blending Machine",
+        "image": "/image/products/mill/transportation-equipment/6.webp"
+      }
+    },
+    "packingSection": {
+      "title": "Packing Section",
+      "product1": {
+        "title": "Packing Machine",
+        "image": "/image/products/mill/packing-section/1.webp"
+      },
+      "product2": {
+        "title": "Carrousel Packing",
+        "image": "/image/products/mill/packing-section/2.webp"
+      },
+      "product3": {
+        "title": "Tubular Screw",
+        "image": "/image/products/mill/packing-section/3.webp"
+      },
+      "product4": {
+        "title": "Rotoflow",
+        "image": "/image/products/mill/packing-section/4.webp"
+      }
     }
   }
 }

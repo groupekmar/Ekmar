@@ -13,7 +13,7 @@ footer {
     }
   }
   .footer-bar {
-    background-image: url("/footer/footerbg.webp");
+    background-image: url("/image/footer/footerbg.webp");
     background-position: center left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -77,6 +77,9 @@ footer {
       display: flex;
       flex-direction: column;
       gap: 24px;
+      @media screen and (max-width: $lap) {
+        margin-bottom: 28px;
+      }
       > div {
         position: relative;
         font-size: var(--size-20);

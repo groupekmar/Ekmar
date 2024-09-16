@@ -2,7 +2,7 @@
 :root {
   --col-pr: #ffffff;
   --col-sc: #9d9fcc;
-  --col-three: #D71633;
+  --col-three: #d71633;
   --col-four: #727271;
   --col-bg: #12132a;
   --col-bg-sc: #162446;
@@ -11047,7 +11047,7 @@ img {
   justify-content: center;
   gap: 4px;
   padding: var(--size-6) var(--size-10);
-  background-color: #25D366;
+  background-color: #25d366;
   border-radius: 6px;
   transition: all 0.3s linear;
 }
@@ -11058,7 +11058,6 @@ img {
   color: var(--col-white) !important;
 }
 
-
 @media screen and (min-width: 769px) {
   .whatsapp-btn {
     padding: var(--size-8) var(--size-12);
@@ -11068,3 +11067,52 @@ img {
     transform: scale(0.97);
   }
 }
+
+.product-card {
+  position: relative;
+  display: block;
+  margin-bottom: 16px;
+  border: 2px solid #f3f3f3;
+  border-radius: 6px;
+  overflow: hidden;
+  background-color: #f8f9fa;
+}
+@media screen and (min-width: 1023px) {
+  .product-card {
+    margin-bottom: 48px;
+  }
+}
+.product-card-title {
+  height: 48px;
+  padding: 0 var(--size-8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--size-14);
+  font-weight: 600;
+}
+@media screen and (min-width: 1023px) {
+  .product-card-title {
+    height: 64px;
+    font-size: var(--size-16);
+  }
+}
+.product-card-image {
+  position: relative;
+  overflow: hidden;
+}
+
+.product-card-image > img {
+  width: 100% !important;
+}
+
+@media screen and (min-width: 1023px) {
+  .product-card-image img {
+    transform: scale(1.05);
+    transition: all 0.3s linear;
+  }
+  .product-card:hover img {
+    transform: scale(1);
+  }
+} /*# sourceMappingURL=test.css.map */

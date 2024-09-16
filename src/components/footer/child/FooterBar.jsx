@@ -24,13 +24,13 @@ export default function FooterBar() {
                   <Link href={`/${locale}/${p("mill.url")}`}>{p("mill.title")}</Link>
                 </li>
                 <li>
-                  <Link href={`/${locale}/${p("feedMill.url")}`}>{p("feedMill.title")}</Link>
+                  <Link href={`/${locale}/${p("feed.url")}`}>{p("feed.title")}</Link>
                 </li>
                 <li>
                   <Link href={`/${locale}/${p("auto.url")}`}>{p("auto.title")}</Link>
                 </li>
                 <li>
-                  <Link href={`/${locale}/${p("glbSilo.url")}`}>{p("glbSilo.title")}</Link>
+                  <Link href={`/${locale}/${p("glb.url")}`}>{p("glb.title")}</Link>
                 </li>
                 <li>
                   <Link href={`/${locale}/${p("seed.url")}`}>{p("seed.title")}</Link>
