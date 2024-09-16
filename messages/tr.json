@@ -15,13 +15,13 @@
   },
   "sliders": {
     "slider1": {
-      "title": "İşleme Ekipmanları",
-      "subtitle": "İşleme ekipmanları, malzemeleri öğütmek, kesmek ve parçalamak için kullanılan endüstriyel makinelerdir. Bu makineler, gıda işleme, madencilik ve inşaat gibi sektörlerde hassas boyutlandırma sağlar.",
+      "title": "Yem İşleme Ekipmanları",
+      "subtitle": "Yem işleme ekipmanları, ham maddeleri öğütmek, karıştırmak ve işlemek için özel makinelerdir. Bu makineler, yüksek kaliteli ve uniform yemlerin üretilmesini sağlar.",
       "button": "Buraya Tıklayın"
     },
     "slider2": {
-      "title": "Yem İşleme Ekipmanları",
-      "subtitle": "Yem işleme ekipmanları, ham maddeleri öğütmek, karıştırmak ve işlemek için özel makinelerdir. Bu makineler, yüksek kaliteli ve uniform yemlerin üretilmesini sağlar.",
+      "title": "İşleme Ekipmanları",
+      "subtitle": "İşleme ekipmanları, malzemeleri öğütmek, kesmek ve parçalamak için kullanılan endüstriyel makinelerdir. Bu makineler, gıda işleme, madencilik ve inşaat gibi sektörlerde hassas boyutlandırma sağlar.",
       "button": "Buraya Tıklayın"
     },
     "slider3": {
@@ -118,7 +118,7 @@
   "footer": {
     "copyright": {
       "copy1": "Telif Hakkı Ekmar Group'a Aittir.",
-      "copy2": "2024 Berry Css tarafından tasarlanmıştır."
+      "copy2": "Berry Css tarafından tasarlanmıştır."
     },
     "address": {
       "turkey": {

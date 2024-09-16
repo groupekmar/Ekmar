@@ -238,6 +238,12 @@ body {
   min-height: 100vh;
 }
 
+@media screen and (min-width: 769px) {
+  body {
+    letter-spacing: -1px;
+  }
+}
+
 body.overlay-active {
   max-height: 100vh;
   overflow: hidden;

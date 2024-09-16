@@ -47,7 +47,7 @@ export default function Contact() {
         <div className="contact-title">{t("title")}</div>
         <div className="contact-subtitle">{t("subtitle")}</div>
         <div className="row aic">
-          <div className="box-lap-5">
+          <div className="box-lap-6 box-desk-5">
             <Image
               className="contact-photo image-center"
               width={700}
@@ -57,7 +57,7 @@ export default function Contact() {
               unoptimized
             />
           </div>
-          <div className="box-lap-7">
+          <div className="box-lap-6 box-desk-7">
             {isSent ? (
               <div className="mail-sent">
                 <ConfirmIcon />

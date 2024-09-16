@@ -96,17 +96,6 @@
       }
     }
     &.bg-1 {
-      background: #e6bb70;
-      @media screen and (min-width: $lap) {
-        background: rgb(230, 187, 112);
-        background: linear-gradient(
-          180deg,
-          rgba(230, 187, 112, 1) 0%,
-          rgb(191, 155, 93) 100%
-        );
-      }
-    }
-    &.bg-2 {
       background: rgb(14, 175, 181);
       @media screen and (min-width: $lap) {
         background: rgb(14, 175, 181);
@@ -114,6 +103,17 @@
           180deg,
           rgba(14, 175, 181, 1) 0%,
           rgba(7, 89, 92, 1) 100%
+        );
+      }
+    }
+    &.bg-2 {
+      background: #e6bb70;
+      @media screen and (min-width: $lap) {
+        background: rgb(230, 187, 112);
+        background: linear-gradient(
+          180deg,
+          rgba(230, 187, 112, 1) 0%,
+          rgb(191, 155, 93) 100%
         );
       }
     }

@@ -15,13 +15,13 @@
   },
   "sliders": {
     "slider1": {
-      "title": "Milling Equipments",
-      "subtitle": "Milling equipments refers to industrial machines used for grinding, cutting, and breaking down materials into finer particles. These machines are essential in industries such as food processing, mining, and construction for precise size reduction of various products.",
+      "title": "Feed Milling Equipments",
+      "subtitle": "Feed milling equipment is specialized machinery used to grind, mix, and process raw ingredients into animal feed. These machines ensure the production of high-quality, uniform feed, vital for livestock nutrition in agriculture and farming industries.",
       "button": "Click Here"
     },
     "slider2": {
-      "title": "Feed Milling Equipments",
-      "subtitle": "Feed milling equipment is specialized machinery used to grind, mix, and process raw ingredients into animal feed. These machines ensure the production of high-quality, uniform feed, vital for livestock nutrition in agriculture and farming industries.",
+      "title": "Milling Equipments",
+      "subtitle": "Milling equipments refers to industrial machines used for grinding, cutting, and breaking down materials into finer particles. These machines are essential in industries such as food processing, mining, and construction for precise size reduction of various products.",
       "button": "Click Here"
     },
     "slider3": {
@@ -118,7 +118,7 @@
   "footer": {
     "copyright": {
       "copy1": "Copyright by Ekmar Group",
-      "copy2": "Designed by Berry Css 2024"
+      "copy2": "Designed by Berry Css"
     },
     "address": {
       "turkey": {
