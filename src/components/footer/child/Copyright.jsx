@@ -7,7 +7,7 @@ export default function Copyright() {
       <div className="container">
       <div className="copyright">
         <div>{t("copy1")}</div>
-        <div>{t("copy2")}</div>
+        <div className="dn lap-db">{t("copy2")}</div>
       </div>
     </div>
     </div>
