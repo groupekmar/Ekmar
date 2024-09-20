@@ -1,4 +1,3 @@
-import "/src/styles/productPage.scss";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 

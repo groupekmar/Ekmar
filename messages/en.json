@@ -329,5 +329,320 @@
         "image": "/image/products/mill/packing-section/4.webp"
       }
     }
+  },
+  "feedMillPage": {
+    "topTitle": "Feed Milling Equipments",
+    "topImage": "/image/products/feedMill/feedMillTop.webp",
+    "palletizingGroup": {
+      "title": "Palletizing Group",
+      "product1": {
+        "title": "EK-PP Pellet Press",
+        "image": "/image/products/feedmill/palletizing-group/1.webp"
+      },
+      "product2": {
+        "title": "EK-PP Pellet Press",
+        "image": "/image/products/feedmill/palletizing-group/2.webp"
+      },
+      "product3": {
+        "title": "EK-PP Pellet Cooler",
+        "image": "/image/products/feedmill/palletizing-group/3.webp"
+      },
+      "product4": {
+        "title": "Coating System",
+        "image": "/image/products/feedmill/palletizing-group/4.webp"
+      },
+      "product5": {
+        "title": "Conditioner",
+        "image": "/image/products/feedmill/palletizing-group/5.webp"
+      },
+      "product6": {
+        "title": "Double Conditioner",
+        "image": "/image/products/feedmill/palletizing-group/6.webp"
+      },
+      "product7": {
+        "title": "Crumbler",
+        "image": "/image/products/feedmill/palletizing-group/7.webp"
+      },
+      "product8": {
+        "title": "Roller Mill",
+        "image": "/image/products/feedmill/palletizing-group/8.webp"
+      },
+      "product9": {
+        "title": "Air Lock",
+        "image": "/image/products/feedmill/palletizing-group/9.webp"
+      },
+      "product10": {
+        "title": "EK_VK Pneumatic Diverter",
+        "image": "/image/products/feedmill/palletizing-group/10.webp"
+      }
+    },
+    "millingAndMixingGroup": {
+      "title": "Milling And Mixing Group",
+      "product1": {
+        "title": "EK-CD Hammer Mill",
+        "image": "/image/products/feedmill/milling-and-mixing-group/1.webp"
+      },
+      "product2": {
+        "title": "Feeder For Hammer Mill",
+        "image": "/image/products/feedmill/milling-and-mixing-group/2.webp"
+      },
+      "product3": {
+        "title": "EK-ML Double Shaft Melasier",
+        "image": "/image/products/feedmill/milling-and-mixing-group/3.webp"
+      },
+      "product4": {
+        "title": "Single Shaft Mixer",
+        "image": "/image/products/feedmill/milling-and-mixing-group/4.webp"
+      },
+      "product5": {
+        "title": "Micro Dosing Unit",
+        "image": "/image/products/feedmill/milling-and-mixing-group/5.webp"
+      }
+    },
+    "screeningGroup": {
+      "title": "Screening Group",
+      "product1": {
+        "title": "Rotary Sieve",
+        "image": "/image/products/feedmill/screening-group/1.webp"
+      },
+      "product2": {
+        "title": "ECS Seperator",
+        "image": "/image/products/feedmill/screening-group/2.webp"
+      },
+      "product3": {
+        "title": "Drum Sifter",
+        "image": "/image/products/feedmill/screening-group/3.webp"
+      },
+      "product4": {
+        "title": "Rotary Sifter",
+        "image": "/image/products/feedmill/screening-group/4.webp"
+      },
+      "product5": {
+        "title": "Fan",
+        "image": "/image/products/feedmill/screening-group/5.webp"
+      },
+      "product6": {
+        "title": "Supersonic Filter",
+        "image": "/image/products/feedmill/screening-group/6.webp"
+      },
+      "product7": {
+        "title": "Air Lock",
+        "image": "/image/products/feedmill/screening-group/7.webp"
+      },
+      "product8": {
+        "title": "Stone Seperator",
+        "image": "/image/products/feedmill/screening-group/8.webp"
+      },
+      "product9": {
+        "title": "Aspiration Cyclone",
+        "image": "/image/products/feedmill/screening-group/9.webp"
+      }
+    },
+    "transportationEquipment": {
+      "title": "Transportation Equipment",
+      "product1": {
+        "title": "Bucket Elevator",
+        "image": "/image/products/feedmill/transportation-equipment/1.webp"
+      },
+      "product2": {
+        "title": "Screw Conveyor",
+        "image": "/image/products/feedmill/transportation-equipment/2.webp"
+      },
+      "product3": {
+        "title": "Chain Conveyor",
+        "image": "/image/products/feedmill/transportation-equipment/3.webp"
+      },
+      "product4": {
+        "title": "Transportation Belt",
+        "image": "/image/products/feedmill/transportation-equipment/4.webp"
+      },
+      "product5": {
+        "title": "Z Type Automatic Magnet",
+        "image": "/image/products/feedmill/transportation-equipment/5.webp"
+      },
+      "product6": {
+        "title": "BHK Air Lock",
+        "image": "/image/products/feedmill/transportation-equipment/6.webp"
+      },
+      "product7": {
+        "title": "Blower",
+        "image": "/image/products/feedmill/transportation-equipment/7.webp"
+      },
+      "product8": {
+        "title": "Rotoflow",
+        "image": "/image/products/feedmill/transportation-equipment/8.webp"
+      },
+      "product9": {
+        "title": "Distributor",
+        "image": "/image/products/feedmill/transportation-equipment/9.webp"
+      }
+    },
+    "packingAndLoadingGroup": {
+      "title": "Packing And Loading Group",
+      "product1": {
+        "title": "Double Weighing Packaging Machine 15/40",
+        "image": "/image/products/feedmill/packing-and-loading-group/1.webp"
+      },
+      "product2": {
+        "title": "Carousel Packing Machine",
+        "image": "/image/products/feedmill/packing-and-loading-group/2.webp"
+      }
+    }
+  },
+  "automationSystemsPage": {
+    "topTitle": "Automation Systems",
+    "topImage": "/image/products/automation/autoTop.webp",
+    "products": {
+      "title": "Automation Products",
+      "product1": {
+        "title": "In-line Scales",
+        "image": "/image/products/automation/1.webp"
+      },
+      "product2": {
+        "title": "Pedestal Scales",
+        "image": "/image/products/automation/2.webp"
+      },
+      "product3": {
+        "title": "Weighing Scales",
+        "image": "/image/products/automation/3.webp"
+      },
+      "product4": {
+        "title": "Flow Scales",
+        "image": "/image/products/automation/4.webp"
+      },
+      "product5": {
+        "title": "Capacity Scales",
+        "image": "/image/products/automation/5.webp"
+      },
+      "product6": {
+        "title": "Volumetric Screw Dispenser",
+        "image": "/image/products/automation/6.webp"
+      },
+      "product7": {
+        "title": "Automatic Dampening System",
+        "image": "/image/products/automation/7.webp"
+      }
+    }
+  },
+  "glbPage": {
+    "topTitle": "GLB Silo",
+    "topImage": "/image/products/glb/glbTop.webp",
+    "products": {
+      "title": "GLB Silo Products",
+      "product1": {
+        "title": "Support Towers",
+        "image": "/image/products/glb/1.webp"
+      },
+      "product2": {
+        "title": "Silo Support Legs",
+        "image": "/image/products/glb/2.webp"
+      },
+      "product3": {
+        "title": "Upper Catwalk",
+        "image": "/image/products/glb/3.webp"
+      },
+      "product4": {
+        "title": "Silo Platforms",
+        "image": "/image/products/glb/4.webp"
+      },
+      "product5": {
+        "title": "Elevator Towers",
+        "image": "/image/products/glb/5.webp"
+      },
+      "product6": {
+        "title": "Chain Conveyors",
+        "image": "/image/products/glb/6.webp"
+      },
+      "product7": {
+        "title": "Belt Bucket Elevators",
+        "image": "/image/products/glb/7.webp"
+      }
+    }
+  },
+  "seedPage": {
+    "topTitle": "Seed Cleaning Technologies",
+    "topImage": "/image/products/seed/seedTop.webp",
+    "products": {
+      "title": "Seed Cleaning Products",
+      "product1": {
+        "title": "Seed Cleaning Line",
+        "image": "/image/products/seed/1.webp"
+      },
+      "product2": {
+        "title": "Grain Cleaning Equipment",
+        "image": "/image/products/seed/2.webp"
+      },
+      "product3": {
+        "title": "Drum Seperator With Aspiration Block",
+        "image": "/image/products/seed/3.webp"
+      },
+      "product4": {
+        "title": "Trier Unit",
+        "image": "/image/products/seed/4.webp"
+      },
+      "product5": {
+        "title": "Sorting Pneumatic",
+        "image": "/image/products/seed/5.webp"
+      },
+      "product6": {
+        "title": "Fine Cleaner",
+        "image": "/image/products/seed/6.webp"
+      },
+      "product7": {
+        "title": "Radial Tarar",
+        "image": "/image/products/seed/7.webp"
+      },
+      "product8": {
+        "title": "Elevator",
+        "image": "/image/products/seed/8.webp"
+      },
+      "product9": {
+        "title": "Waste Auger",
+        "image": "/image/products/seed/9.webp"
+      },
+      "product10": {
+        "title": "Cyclone",
+        "image": "/image/products/seed/10.webp"
+      },
+      "product11": {
+        "title": "Continuous Weeder Machine",
+        "image": "/image/products/seed/11.webp"
+      },
+      "product12": {
+        "title": "Seperator Aspiration Hood",
+        "image": "/image/products/seed/12.webp"
+      },
+      "product13": {
+        "title": "Packing Line",
+        "image": "/image/products/seed/13.webp"
+      }
+    }
+  },
+  "ektarPage": {
+    "topTitle": "Ektar Truck & Railway Scales",
+    "topImage": "/image/products/ektar/ektarTop.webp",
+    "products": {
+      "title": "Truck & Railway Scales",
+      "product1": {
+        "title": "Ektar 2x8",
+        "image": "/image/products/ektar/1.webp"
+      },
+      "product2": {
+        "title": "Static Railway Scales",
+        "image": "/image/products/ektar/2.webp"
+      },
+      "product3": {
+        "title": "Two-Platform Railway Scales",
+        "image": "/image/products/ektar/3.webp"
+      },
+      "product4": {
+        "title": "Livestock Scales",
+        "image": "/image/products/ektar/4.webp"
+      },
+      "product5": {
+        "title": "Industrial Platform Scales",
+        "image": "/image/products/ektar/5.webp"
+      }
+    }
   }
 }

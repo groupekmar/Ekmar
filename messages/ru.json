@@ -329,5 +329,320 @@
         "image": "/image/products/mill/packing-section/4.webp"
       }
     }
+  },
+  "feedMillPage": {
+    "topTitle": "Оборудование для кормозаводов",
+    "topImage": "/image/products/feedMill/feedMillTop.webp",
+    "palletizingGroup": {
+      "title": "Группа паллетирования",
+      "product1": {
+        "title": "EK-PP Пеллетный пресс",
+        "image": "/image/products/feedmill/palletizing-group/1.webp"
+      },
+      "product2": {
+        "title": "EK-PP Пеллетный пресс",
+        "image": "/image/products/feedmill/palletizing-group/2.webp"
+      },
+      "product3": {
+        "title": "EK-PP Охладитель пеллет",
+        "image": "/image/products/feedmill/palletizing-group/3.webp"
+      },
+      "product4": {
+        "title": "Система покрытия",
+        "image": "/image/products/feedmill/palletizing-group/4.webp"
+      },
+      "product5": {
+        "title": "Кондиционер",
+        "image": "/image/products/feedmill/palletizing-group/5.webp"
+      },
+      "product6": {
+        "title": "Двойной кондиционер",
+        "image": "/image/products/feedmill/palletizing-group/6.webp"
+      },
+      "product7": {
+        "title": "Крошилка",
+        "image": "/image/products/feedmill/palletizing-group/7.webp"
+      },
+      "product8": {
+        "title": "Роликовая мельница",
+        "image": "/image/products/feedmill/palletizing-group/8.webp"
+      },
+      "product9": {
+        "title": "Воздушный замок",
+        "image": "/image/products/feedmill/palletizing-group/9.webp"
+      },
+      "product10": {
+        "title": "EK_VK Пневматический переключатель",
+        "image": "/image/products/feedmill/palletizing-group/10.webp"
+      }
+    },
+    "millingAndMixingGroup": {
+      "title": "Группа измельчения и смешивания",
+      "product1": {
+        "title": "EK-CD Мельница с молотками",
+        "image": "/image/products/feedmill/milling-and-mixing-group/1.webp"
+      },
+      "product2": {
+        "title": "Питатель для мельницы с молотками",
+        "image": "/image/products/feedmill/milling-and-mixing-group/2.webp"
+      },
+      "product3": {
+        "title": "EK-ML Двухвальный смеситель",
+        "image": "/image/products/feedmill/milling-and-mixing-group/3.webp"
+      },
+      "product4": {
+        "title": "Одновальный смеситель",
+        "image": "/image/products/feedmill/milling-and-mixing-group/4.webp"
+      },
+      "product5": {
+        "title": "Устройство микро-дозирования",
+        "image": "/image/products/feedmill/milling-and-mixing-group/5.webp"
+      }
+    },
+    "screeningGroup": {
+      "title": "Группа сортировки",
+      "product1": {
+        "title": "Ротационное сито",
+        "image": "/image/products/feedmill/screening-group/1.webp"
+      },
+      "product2": {
+        "title": "Сепаратор ECS",
+        "image": "/image/products/feedmill/screening-group/2.webp"
+      },
+      "product3": {
+        "title": "Барабанное сито",
+        "image": "/image/products/feedmill/screening-group/3.webp"
+      },
+      "product4": {
+        "title": "Ротационное сито",
+        "image": "/image/products/feedmill/screening-group/4.webp"
+      },
+      "product5": {
+        "title": "Вентилятор",
+        "image": "/image/products/feedmill/screening-group/5.webp"
+      },
+      "product6": {
+        "title": "Суперсанитарный фильтр",
+        "image": "/image/products/feedmill/screening-group/6.webp"
+      },
+      "product7": {
+        "title": "Воздушный замок",
+        "image": "/image/products/feedmill/screening-group/7.webp"
+      },
+      "product8": {
+        "title": "Сепаратор камней",
+        "image": "/image/products/feedmill/screening-group/8.webp"
+      },
+      "product9": {
+        "title": "Циклон аспирации",
+        "image": "/image/products/feedmill/screening-group/9.webp"
+      }
+    },
+    "transportationEquipment": {
+      "title": "Транспортное оборудование",
+      "product1": {
+        "title": "Бакетный элеватор",
+        "image": "/image/products/feedmill/transportation-equipment/1.webp"
+      },
+      "product2": {
+        "title": "Шнековый конвейер",
+        "image": "/image/products/feedmill/transportation-equipment/2.webp"
+      },
+      "product3": {
+        "title": "Цепной конвейер",
+        "image": "/image/products/feedmill/transportation-equipment/3.webp"
+      },
+      "product4": {
+        "title": "Транспортировочный ремень",
+        "image": "/image/products/feedmill/transportation-equipment/4.webp"
+      },
+      "product5": {
+        "title": "Автоматический магнит Z-образный",
+        "image": "/image/products/feedmill/transportation-equipment/5.webp"
+      },
+      "product6": {
+        "title": "BHK Воздушный замок",
+        "image": "/image/products/feedmill/transportation-equipment/6.webp"
+      },
+      "product7": {
+        "title": "Вентилятор",
+        "image": "/image/products/feedmill/transportation-equipment/7.webp"
+      },
+      "product8": {
+        "title": "Ротофлоу",
+        "image": "/image/products/feedmill/transportation-equipment/8.webp"
+      },
+      "product9": {
+        "title": "Распределитель",
+        "image": "/image/products/feedmill/transportation-equipment/9.webp"
+      }
+    },
+    "packingAndLoadingGroup": {
+      "title": "Группа упаковки и загрузки",
+      "product1": {
+        "title": "Упаковочная машина с двойным весом 15/40",
+        "image": "/image/products/feedmill/packing-and-loading-group/1.webp"
+      },
+      "product2": {
+        "title": "Упаковочная машина Carousel",
+        "image": "/image/products/feedmill/packing-and-loading-group/2.webp"
+      }
+    }
+  },
+  "automationSystemsPage": {
+    "topTitle": "Автоматизация систем",
+    "topImage": "/image/products/automation/autoTop.webp",
+    "products": {
+      "title": "Автоматизационные продукты",
+      "product1": {
+        "title": "Линейные весы",
+        "image": "/image/products/automation/1.webp"
+      },
+      "product2": {
+        "title": "Постаментные весы",
+        "image": "/image/products/automation/2.webp"
+      },
+      "product3": {
+        "title": "Весы для взвешивания",
+        "image": "/image/products/automation/3.webp"
+      },
+      "product4": {
+        "title": "Потоковые весы",
+        "image": "/image/products/automation/4.webp"
+      },
+      "product5": {
+        "title": "Весы по емкости",
+        "image": "/image/products/automation/5.webp"
+      },
+      "product6": {
+        "title": "Объемный шнековый диспенсер",
+        "image": "/image/products/automation/6.webp"
+      },
+      "product7": {
+        "title": "Автоматическая система увлажнения",
+        "image": "/image/products/automation/7.webp"
+      }
+    }
+  },
+  "glbPage": {
+    "topTitle": "GLB Силос",
+    "topImage": "/image/products/glb/glbTop.webp",
+    "products": {
+      "title": "Продукты GLB Силоса",
+      "product1": {
+        "title": "Опорные башни",
+        "image": "/image/products/glb/1.webp"
+      },
+      "product2": {
+        "title": "Опорные ножки для силоса",
+        "image": "/image/products/glb/2.webp"
+      },
+      "product3": {
+        "title": "Верхний мостик",
+        "image": "/image/products/glb/3.webp"
+      },
+      "product4": {
+        "title": "Платформы для силоса",
+        "image": "/image/products/glb/4.webp"
+      },
+      "product5": {
+        "title": "Башни для лифтов",
+        "image": "/image/products/glb/5.webp"
+      },
+      "product6": {
+        "title": "Цепные конвейеры",
+        "image": "/image/products/glb/6.webp"
+      },
+      "product7": {
+        "title": "Лифты с конвейерным ремнем",
+        "image": "/image/products/glb/7.webp"
+      }
+    }
+  },
+  "seedPage": {
+    "topTitle": "Технологии очистки семян",
+    "topImage": "/image/products/seed/seedTop.webp",
+    "products": {
+      "title": "Продукты для очистки семян",
+      "product1": {
+        "title": "Линия для очистки семян",
+        "image": "/image/products/seed/1.webp"
+      },
+      "product2": {
+        "title": "Оборудование для очистки зерна",
+        "image": "/image/products/seed/2.webp"
+      },
+      "product3": {
+        "title": "Драмовый сепаратор с блоком аспирации",
+        "image": "/image/products/seed/3.webp"
+      },
+      "product4": {
+        "title": "Устройство для сортировки",
+        "image": "/image/products/seed/4.webp"
+      },
+      "product5": {
+        "title": "Пневматический сортировщик",
+        "image": "/image/products/seed/5.webp"
+      },
+      "product6": {
+        "title": "Мелкий очиститель",
+        "image": "/image/products/seed/6.webp"
+      },
+      "product7": {
+        "title": "Радиальный тряпочный фильтр",
+        "image": "/image/products/seed/7.webp"
+      },
+      "product8": {
+        "title": "Лифт",
+        "image": "/image/products/seed/8.webp"
+      },
+      "product9": {
+        "title": "Отходный шнек",
+        "image": "/image/products/seed/9.webp"
+      },
+      "product10": {
+        "title": "Циклон",
+        "image": "/image/products/seed/10.webp"
+      },
+      "product11": {
+        "title": "Непрерывная машина для прополки",
+        "image": "/image/products/seed/11.webp"
+      },
+      "product12": {
+        "title": "Кожух для аспирации сепаратора",
+        "image": "/image/products/seed/12.webp"
+      },
+      "product13": {
+        "title": "Линия упаковки",
+        "image": "/image/products/seed/13.webp"
+      }
+    }
+  },
+  "ektarPage": {
+    "topTitle": "Весы для грузовиков и железнодорожные весы Ektar",
+    "topImage": "/image/products/ektar/ektarTop.webp",
+    "products": {
+      "title": "Весы для грузовиков и железнодорожные весы",
+      "product1": {
+        "title": "Ektar 2x8",
+        "image": "/image/products/ektar/1.webp"
+      },
+      "product2": {
+        "title": "Статические железнодорожные весы",
+        "image": "/image/products/ektar/2.webp"
+      },
+      "product3": {
+        "title": "Двухплатформенные железнодорожные весы",
+        "image": "/image/products/ektar/3.webp"
+      },
+      "product4": {
+        "title": "Весы для скота",
+        "image": "/image/products/ektar/4.webp"
+      },
+      "product5": {
+        "title": "Промышленные платформенные весы",
+        "image": "/image/products/ektar/5.webp"
+      }
+    }
   }
 }

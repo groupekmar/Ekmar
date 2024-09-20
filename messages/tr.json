@@ -329,5 +329,320 @@
         "image": "/image/products/mill/packing-section/4.webp"
       }
     }
+  },
+  "feedMillPage": {
+    "topTitle": "Karma Ekipmanları",
+    "topImage": "/image/products/feedMill/feedMillTop.webp",
+    "palletizingGroup": {
+      "title": "Paletleme Grubu",
+      "product1": {
+        "title": "EK-PP Palet Pressi",
+        "image": "/image/products/feedmill/palletizing-group/1.webp"
+      },
+      "product2": {
+        "title": "EK-PP Palet Pressi",
+        "image": "/image/products/feedmill/palletizing-group/2.webp"
+      },
+      "product3": {
+        "title": "EK-PP Palet Soğutucu",
+        "image": "/image/products/feedmill/palletizing-group/3.webp"
+      },
+      "product4": {
+        "title": "Kaplama Sistemi",
+        "image": "/image/products/feedmill/palletizing-group/4.webp"
+      },
+      "product5": {
+        "title": "Koşullandırıcı",
+        "image": "/image/products/feedmill/palletizing-group/5.webp"
+      },
+      "product6": {
+        "title": "Çift Koşullandırıcı",
+        "image": "/image/products/feedmill/palletizing-group/6.webp"
+      },
+      "product7": {
+        "title": "Küçük Parçalama Makinesi",
+        "image": "/image/products/feedmill/palletizing-group/7.webp"
+      },
+      "product8": {
+        "title": "Rulo Mill",
+        "image": "/image/products/feedmill/palletizing-group/8.webp"
+      },
+      "product9": {
+        "title": "Hava Kilidi",
+        "image": "/image/products/feedmill/palletizing-group/9.webp"
+      },
+      "product10": {
+        "title": "EK_VK Pnömatik Yönlendirici",
+        "image": "/image/products/feedmill/palletizing-group/10.webp"
+      }
+    },
+    "millingAndMixingGroup": {
+      "title": "Öğütme ve Karıştırma Grubu",
+      "product1": {
+        "title": "EK-CD Çekiçli Değirmen",
+        "image": "/image/products/feedmill/milling-and-mixing-group/1.webp"
+      },
+      "product2": {
+        "title": "Çekiçli Değirmen Besleyici",
+        "image": "/image/products/feedmill/milling-and-mixing-group/2.webp"
+      },
+      "product3": {
+        "title": "EK-ML Çift Şaftlı Karıştırıcı",
+        "image": "/image/products/feedmill/milling-and-mixing-group/3.webp"
+      },
+      "product4": {
+        "title": "Tek Şaftlı Karıştırıcı",
+        "image": "/image/products/feedmill/milling-and-mixing-group/4.webp"
+      },
+      "product5": {
+        "title": "Mikro Dozajlama Ünitesi",
+        "image": "/image/products/feedmill/milling-and-mixing-group/5.webp"
+      }
+    },
+    "screeningGroup": {
+      "title": "Ekranlama Grubu",
+      "product1": {
+        "title": "Dönme Eleği",
+        "image": "/image/products/feedmill/screening-group/1.webp"
+      },
+      "product2": {
+        "title": "ECS Ayırıcı",
+        "image": "/image/products/feedmill/screening-group/2.webp"
+      },
+      "product3": {
+        "title": "Drum Sifter",
+        "image": "/image/products/feedmill/screening-group/3.webp"
+      },
+      "product4": {
+        "title": "Dönme Sifteri",
+        "image": "/image/products/feedmill/screening-group/4.webp"
+      },
+      "product5": {
+        "title": "Fan",
+        "image": "/image/products/feedmill/screening-group/5.webp"
+      },
+      "product6": {
+        "title": "Süpersonik Filtre",
+        "image": "/image/products/feedmill/screening-group/6.webp"
+      },
+      "product7": {
+        "title": "Hava Kilidi",
+        "image": "/image/products/feedmill/screening-group/7.webp"
+      },
+      "product8": {
+        "title": "Taş Ayırıcı",
+        "image": "/image/products/feedmill/screening-group/8.webp"
+      },
+      "product9": {
+        "title": "Aspirasyon Siklonu",
+        "image": "/image/products/feedmill/screening-group/9.webp"
+      }
+    },
+    "transportationEquipment": {
+      "title": "Taşıma Ekipmanları",
+      "product1": {
+        "title": "Kova Elevatörü",
+        "image": "/image/products/feedmill/transportation-equipment/1.webp"
+      },
+      "product2": {
+        "title": "Vida Konveyör",
+        "image": "/image/products/feedmill/transportation-equipment/2.webp"
+      },
+      "product3": {
+        "title": "Zincir Konveyör",
+        "image": "/image/products/feedmill/transportation-equipment/3.webp"
+      },
+      "product4": {
+        "title": "Taşıma Kayışı",
+        "image": "/image/products/feedmill/transportation-equipment/4.webp"
+      },
+      "product5": {
+        "title": "Z Tipi Otomatik Mıknatıs",
+        "image": "/image/products/feedmill/transportation-equipment/5.webp"
+      },
+      "product6": {
+        "title": "BHK Hava Kilidi",
+        "image": "/image/products/feedmill/transportation-equipment/6.webp"
+      },
+      "product7": {
+        "title": "Üfleyici",
+        "image": "/image/products/feedmill/transportation-equipment/7.webp"
+      },
+      "product8": {
+        "title": "Rotoflow",
+        "image": "/image/products/feedmill/transportation-equipment/8.webp"
+      },
+      "product9": {
+        "title": "Dağıtıcı",
+        "image": "/image/products/feedmill/transportation-equipment/9.webp"
+      }
+    },
+    "packingAndLoadingGroup": {
+      "title": "Paketleme ve Yükleme Grubu",
+      "product1": {
+        "title": "Çift Tartımlı Paketleme Makinesi 15/40",
+        "image": "/image/products/feedmill/packing-and-loading-group/1.webp"
+      },
+      "product2": {
+        "title": "Carousel Paketleme Makinesi",
+        "image": "/image/products/feedmill/packing-and-loading-group/2.webp"
+      }
+    }
+  },
+  "automationSystemsPage": {
+    "topTitle": "Otomasyon Sistemleri",
+    "topImage": "/image/products/automation/autoTop.webp",
+    "products": {
+      "title": "Otomasyon Ürünleri",
+      "product1": {
+        "title": "Yatay Tartım Terazileri",
+        "image": "/image/products/automation/1.webp"
+      },
+      "product2": {
+        "title": "Yükseklikli Tartım Terazileri",
+        "image": "/image/products/automation/2.webp"
+      },
+      "product3": {
+        "title": "Tartım Terazileri",
+        "image": "/image/products/automation/3.webp"
+      },
+      "product4": {
+        "title": "Akış Tartım Terazileri",
+        "image": "/image/products/automation/4.webp"
+      },
+      "product5": {
+        "title": "Kapasite Tartım Terazileri",
+        "image": "/image/products/automation/5.webp"
+      },
+      "product6": {
+        "title": "Hacimsel Vida Dağıtıcı",
+        "image": "/image/products/automation/6.webp"
+      },
+      "product7": {
+        "title": "Otomatik Nemlendirme Sistemi",
+        "image": "/image/products/automation/7.webp"
+      }
+    }
+  },
+  "glbPage": {
+    "topTitle": "GLB Silo",
+    "topImage": "/image/products/glb/glbTop.webp",
+    "products": {
+      "title": "GLB Silo Ürünleri",
+      "product1": {
+        "title": "Destek Kuleleri",
+        "image": "/image/products/glb/1.webp"
+      },
+      "product2": {
+        "title": "Silo Destek Ayakları",
+        "image": "/image/products/glb/2.webp"
+      },
+      "product3": {
+        "title": "Üst Yürüyüş Yolu",
+        "image": "/image/products/glb/3.webp"
+      },
+      "product4": {
+        "title": "Silo Platformları",
+        "image": "/image/products/glb/4.webp"
+      },
+      "product5": {
+        "title": "Yükseklik Kuleleri",
+        "image": "/image/products/glb/5.webp"
+      },
+      "product6": {
+        "title": "Zincirli Konveyörler",
+        "image": "/image/products/glb/6.webp"
+      },
+      "product7": {
+        "title": "Kemerli Bucket Elevator",
+        "image": "/image/products/glb/7.webp"
+      }
+    }
+  },
+  "seedPage": {
+    "topTitle": "Tohum Temizleme Teknolojileri",
+    "topImage": "/image/products/seed/seedTop.webp",
+    "products": {
+      "title": "Tohum Temizleme Ürünleri",
+      "product1": {
+        "title": "Tohum Temizleme Hattı",
+        "image": "/image/products/seed/1.webp"
+      },
+      "product2": {
+        "title": "Tahıl Temizleme Ekipmanları",
+        "image": "/image/products/seed/2.webp"
+      },
+      "product3": {
+        "title": "Aspirasyon Bloklu Tambur Ayrıştırıcı",
+        "image": "/image/products/seed/3.webp"
+      },
+      "product4": {
+        "title": "Sıralama Ünitesi",
+        "image": "/image/products/seed/4.webp"
+      },
+      "product5": {
+        "title": "Pnevmatik Sıralayıcı",
+        "image": "/image/products/seed/5.webp"
+      },
+      "product6": {
+        "title": "İnce Temizleyici",
+        "image": "/image/products/seed/6.webp"
+      },
+      "product7": {
+        "title": "Radyal Ayırıcı",
+        "image": "/image/products/seed/7.webp"
+      },
+      "product8": {
+        "title": "Elevator",
+        "image": "/image/products/seed/8.webp"
+      },
+      "product9": {
+        "title": "Atık Vida",
+        "image": "/image/products/seed/9.webp"
+      },
+      "product10": {
+        "title": "Siklon",
+        "image": "/image/products/seed/10.webp"
+      },
+      "product11": {
+        "title": "Sürekli Yabani Ot Makinesi",
+        "image": "/image/products/seed/11.webp"
+      },
+      "product12": {
+        "title": "Ayrıştırıcı Aspirasyon Kafası",
+        "image": "/image/products/seed/12.webp"
+      },
+      "product13": {
+        "title": "Paketleme Hattı",
+        "image": "/image/products/seed/13.webp"
+      }
+    }
+  },
+  "ektarPage": {
+    "topTitle": "Ektar Kamyon & Demiryolu Tartım Terazileri",
+    "topImage": "/image/products/ektar/ektarTop.webp",
+    "products": {
+      "title": "Kamyon & Demiryolu Tartım Terazileri",
+      "product1": {
+        "title": "Ektar 2x8",
+        "image": "/image/products/ektar/1.webp"
+      },
+      "product2": {
+        "title": "Statik Demiryolu Tartım Terazileri",
+        "image": "/image/products/ektar/2.webp"
+      },
+      "product3": {
+        "title": "İki Platformlu Demiryolu Tartım Terazileri",
+        "image": "/image/products/ektar/3.webp"
+      },
+      "product4": {
+        "title": "Hayvan Tartım Terazileri",
+        "image": "/image/products/ektar/4.webp"
+      },
+      "product5": {
+        "title": "Endüstriyel Platform Tartım Terazileri",
+        "image": "/image/products/ektar/5.webp"
+      }
+    }
   }
 }

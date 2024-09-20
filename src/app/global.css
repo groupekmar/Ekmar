@@ -11078,10 +11078,10 @@ img {
   position: relative;
   display: block;
   margin-bottom: 16px;
-  border: 2px solid #f3f3f3;
+  border: 1px solid #ebecf3;
   border-radius: 6px;
   overflow: hidden;
-  background-color: #f8f9fa;
+  background-color: #ebecf3;
 }
 @media screen and (min-width: 1023px) {
   .product-card {
@@ -11121,4 +11121,79 @@ img {
   .product-card:hover img {
     transform: scale(1);
   }
-} /*# sourceMappingURL=test.css.map */
+}
+
+.product-page {
+  background-color: #f7f7f766;
+}
+
+.product-page-top {
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: var(--size-12);
+  height: 150px;
+}
+@media screen and (min-width: 1023px) {
+  .product-page-top {
+    height: 300px;
+  }
+}
+.product-page-top-title {
+  font-size: var(--size-24);
+  font-weight: 600;
+  color: var(--col-white);
+}
+@media screen and (min-width: 1023px) {
+  .product-page-top-title {
+    font-size: var(--size-28);
+  }
+}
+.product-page-wrapper {
+  padding: var(--size-20) 0;
+}
+@media screen and (min-width: 1023px) {
+  .product-page-wrapper {
+    padding: var(--size-80) 0 var(--size-60);
+  }
+}
+.product-page-wrapper .title {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: var(--size-20);
+  margin-bottom: var(--size-24);
+}
+@media screen and (min-width: 1023px) {
+  .product-page-wrapper .title {
+    margin: var(--size-20) auto var(--size-32);
+  }
+}
+.product-page-wrapper .title > div {
+  position: relative;
+  font-size: var(--size-20);
+  font-weight: 600;
+  text-align: center;
+  padding-bottom: 6px;
+}
+.product-page-wrapper .title > div:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 2px;
+  width: 110%;
+  background-color: var(--col-three);
+}
+@media screen and (min-width: 1023px) {
+  .product-page-wrapper .title > div:after {
+    width: 120%;
+  }
+}
