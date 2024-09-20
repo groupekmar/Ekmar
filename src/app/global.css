@@ -389,6 +389,8 @@ a {
   color: inherit;
   background: transparent;
   text-decoration: none;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
 }
 a:visited {
   color: inherit;
