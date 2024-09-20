@@ -11078,10 +11078,10 @@ img {
   position: relative;
   display: block;
   margin-bottom: 16px;
-  border: 2px solid #f3f3f3;
+  border: 1px solid #ebecf3;
   border-radius: 6px;
   overflow: hidden;
-  background-color: #f8f9fa;
+  background-color: #ebecf3;
 }
 @media screen and (min-width: 1023px) {
   .product-card {
@@ -11121,6 +11121,10 @@ img {
   .product-card:hover img {
     transform: scale(1);
   }
+}
+
+.product-page {
+  background-color: #f7f7f766;
 }
 
 .product-page-top {
