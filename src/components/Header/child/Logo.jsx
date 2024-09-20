@@ -10,7 +10,7 @@ export default function Logo() {
   return (
     <div className="box box-lap-auto">
       <Link href={`/${locale}`}>
-        <Image src={LogoImage} alt="logo" unoptimized />
+        <Image style={{ maxWidth: "145px" }} src={LogoImage} alt="logo" unoptimized />
       </Link>
     </div>
   );

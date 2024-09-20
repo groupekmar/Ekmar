@@ -3,7 +3,7 @@ import "./sliders.scss";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { useTranslations } from "next-intl";
+import { useTranslations , useLocale } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";
 import Slider1 from "/src/assets/home/slider/1.webp";
@@ -14,7 +14,9 @@ import Slider5 from "/src/assets/home/slider/5.webp";
 import Slider6 from "/src/assets/home/slider/6.webp";
 
 export default function Sliders() {
+  const locale = useLocale();
   const t = useTranslations("sliders");
+  const p = useTranslations("products");
 
   var settings = {
     autoplay: true,
@@ -48,7 +50,7 @@ export default function Sliders() {
               <div className="slider-content-subtitle">
                 {t("slider1.subtitle")}
               </div>
-              <Link href="#" className="slider-content-button">
+              <Link href={`/${locale}/${p("feed.url")}`} className="slider-content-button">
                 {t("slider1.button")}
               </Link>
             </div>
@@ -64,7 +66,7 @@ export default function Sliders() {
               <div className="slider-content-subtitle">
                 {t("slider2.subtitle")}
               </div>
-              <Link href="#" className="slider-content-button">
+              <Link href={`/${locale}/${p("mill.url")}`} className="slider-content-button">
                 {t("slider2.button")}
               </Link>
             </div>
@@ -80,7 +82,7 @@ export default function Sliders() {
               <div className="slider-content-subtitle">
                 {t("slider3.subtitle")}
               </div>
-              <Link href="#" className="slider-content-button">
+              <Link href={`/${locale}/${p("auto.url")}`} className="slider-content-button">
                 {t("slider3.button")}
               </Link>
             </div>
@@ -96,7 +98,7 @@ export default function Sliders() {
               <div className="slider-content-subtitle">
                 {t("slider4.subtitle")}
               </div>
-              <Link href="#" className="slider-content-button">
+              <Link href={`/${locale}/${p("glb.url")}`} className="slider-content-button">
                 {t("slider4.button")}
               </Link>
             </div>
@@ -112,7 +114,7 @@ export default function Sliders() {
               <div className="slider-content-subtitle">
                 {t("slider5.subtitle")}
               </div>
-              <Link href="#" className="slider-content-button">
+              <Link href={`/${locale}/${p("seed.url")}`} className="slider-content-button">
                 {t("slider5.button")}
               </Link>
             </div>
@@ -128,7 +130,7 @@ export default function Sliders() {
               <div className="slider-content-subtitle">
                 {t("slider6.subtitle")}
               </div>
-              <Link href="#" className="slider-content-button">
+              <Link href={`/${locale}/${p("ektar.url")}`} className="slider-content-button">
                 {t("slider6.button")}
               </Link>
             </div>
