@@ -7,7 +7,7 @@ import { getLocale, getMessages } from "next-intl/server";
 import Header from "@/components/header/Header";
 import Footer from "@/components/footer/Footer";
 
-const rochester = Lunasima({ subsets: ['latin'], weight: '400' })
+const lunasima = Lunasima({ subsets: ['latin'], weight: '400' })
 
 export const metadata: Metadata = {
   title: "Ekmar Group",
@@ -24,7 +24,7 @@ export default async function RootLayout({
 
   return (
     <html lang={locale}>
-      <body className={`${rochester.className} antialiased`}>
+      <body className={`${lunasima.className} antialiased`}>
         <NextIntlClientProvider messages={messages}>
           <Header />
           {children}
